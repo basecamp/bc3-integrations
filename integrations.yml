@@ -16,3 +16,9 @@
   website: "https://basecamp.com/3/via"
   icon: "basecamp3.png"
   category: 1
+-
+  name: "Tick"
+  description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
+  website: "https://www.tickspot.com/basecamp"
+  icon: "tick_BC3.png"
+  category: 2
