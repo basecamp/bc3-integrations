@@ -1,0 +1,18 @@
+# Categories
+# ----------
+#
+# 1 - Mobile and Desktop Apps
+# 2 - Time Tracking, Invoicing, and Accounting
+# 3 - Reporting, Charts, Planning
+# 4 - File Backup & Synchronization
+# 5 - Software Development
+# 6 - Marketing, Design, and Asset Management
+# 7 - Customer Service and Support
+# 8 - Contracts and Proposals
+#
+-
+  name: "Basecamp 3 App"
+  description: "Basecamp 3 for Mac and Windows"
+  website: "https://basecamp.com/3/via"
+  icon: "basecamp3.png"
+  category: 1
