@@ -22,3 +22,9 @@
   website: "https://www.tickspot.com/basecamp"
   icon: "tick_BC3.png"
   category: 2
+-
+  name: "Time Doctor"
+  description: "Time tracking and time management software that helps you to get a lot more done each day."
+  website: "https://www.timedoctor.com/basecamp.html"
+  icon: "timedoctor.png"
+  category: 2
