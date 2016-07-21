@@ -34,3 +34,9 @@
   website: "https://www.gantt-chart.com"
   icon: "ganttify-logo.png"
   category: 3
+-
+  name: "Hubstaff"
+  description: "Hubstaff is a time tracking platform with in-depth reporting and employee payments."
+  website: "https://hubstaff.com/time_tracking_for_basecamp_3"
+  icon: "hubstaff.png"
+  category: 2
