@@ -25,6 +25,6 @@
 -
   name: "DNS Check"
   description: "DNS Check enables you to easily monitor, share and troubleshoot DNS records."
-  website: "https://www.dnscheck.co/"
+  website: "https://www.dnscheck.co/basecamp-3"
   icon: "dns-check.png"
   category: 3
