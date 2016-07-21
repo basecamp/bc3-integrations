@@ -11,12 +11,6 @@
 # 8 - Contracts and Proposals
 #
 -
-  name: "Basecamp 3 App"
-  description: "Basecamp 3 for Mac and Windows"
-  website: "https://basecamp.com/3/via"
-  icon: "basecamp3.png"
-  category: 1
--
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
   website: "https://www.tickspot.com/basecamp"
