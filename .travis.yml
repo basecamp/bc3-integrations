@@ -1,0 +1,8 @@
+language: ruby
+cache: bundler
+rvm:
+  - 2.2.2
+install:
+  - cd .test && bundle
+script:
+  - cd .test && bundle exec rake
