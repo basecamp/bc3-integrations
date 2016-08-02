@@ -40,3 +40,9 @@
   website: "https://hubstaff.com/time_tracking_for_basecamp_3"
   icon: "hubstaff.png"
   category: 2
+-
+  name: "Easy Insight"
+  description: "Beautiful dashboards and custom reports to keep your Basecamp projects on track."
+  website: "https://www.easy-insight.com/solutions/basecamp.html"
+  icon: "easy-insight.png"
+  category: 3
