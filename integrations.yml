@@ -51,3 +51,4 @@
   description: "A simple app that allows you to organize and track your Basecamp projects as they progress in a Kanban style board."
   website: "http://baseboard.splitmango.com"
   icon: "baseboard.png"
+  category: 3
