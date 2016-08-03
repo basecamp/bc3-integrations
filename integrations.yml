@@ -46,3 +46,8 @@
   website: "https://www.easy-insight.com/solutions/basecamp.html"
   icon: "easy-insight.png"
   category: 3
+-
+  name: "Baseboard by SplitMango"
+  description: "A simple app that allows you to organize and track your Basecamp projects as they progress in a Kanban style board."
+  website: "http://baseboard.splitmango.com"
+  icon: "baseboard.png"
