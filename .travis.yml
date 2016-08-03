@@ -3,6 +3,7 @@ cache: bundler
 rvm:
   - 2.2.2
 install:
-  - cd .test && bundle
+  - cd .test
+  - bundle
 script:
-  - cd .test && bundle exec rake
+  - bundle exec rake
