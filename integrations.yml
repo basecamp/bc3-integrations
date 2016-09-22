@@ -58,3 +58,10 @@
   website: "https://eazybi.com/integrations/basecamp"
   icon: "eazybi.png"
   category: 3
+-
+  name: "Grow"
+  description: "Grow empowers businesses to become data-driven and accelerate growth with custom data dashboards."
+  website: "http://www.grow.com/"
+  icon: "grow.png"
+  category: 3
+
