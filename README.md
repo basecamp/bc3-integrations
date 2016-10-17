@@ -8,6 +8,8 @@ Does your service integrate with the [Basecamp 3 API](https://github.com/basecam
 
 To add your integration, please open a pull request.
 
+**Note: Your pull request will be denied if you or your company has ever publicly said anything negative about Basecamp.**
+
 Edit [integrations.yml](integrations.yml) and add a new entry to the bottom of the list.
 
 Include the `name`, `description`, `website`, `icon`, and `category`. Categories are identified at the top of [integrations.yml](integrations.yml).
