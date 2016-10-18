@@ -58,3 +58,9 @@
   website: "https://eazybi.com/integrations/basecamp"
   icon: "eazybi.png"
   category: 3
+-
+  name: "TestLodge"
+  description: "A test management tool that will create to-dos whenever a test fails allowing you to use Basecamp as an issue tracker."
+  website: "http://www.testlodge.com"
+  icon: "testlodge.png"
+  category: 5
