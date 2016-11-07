@@ -2,7 +2,7 @@
 
 Does your service integrate with the [Basecamp 3 API](https://github.com/basecamp/bc3-api)? Would you like to have it listed on [basecamp.com](https://basecamp.com)? Then you're in the right place.
 
-**Note: We don't have a page for Basecamp 3 integrations [like we do for Basecamp 2](https://basecamp.com/2/extras) yet. Add your service now to be included when it's ready.**
+Your Basecamp 3 integration will be listed at [https://basecamp.com/extras](https://basecamp.com/extras).
 
 ## Add Your Integration
 
