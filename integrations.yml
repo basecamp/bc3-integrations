@@ -64,3 +64,9 @@
   website: "http://www.testlodge.com"
   icon: "testlodge.png"
   category: 5
+-
+  name: "MinterApp"
+  description: "Minterapp is a simple project time tracking and invoicing tool to help streamline your business."
+  website: "http://www.minterapp.com/basecamp-3-time-tracking/"
+  icon: "minterapp.png"
+  category: 2
