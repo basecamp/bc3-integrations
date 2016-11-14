@@ -70,3 +70,9 @@
   website: "http://www.minterapp.com/basecamp-3-time-tracking/"
   icon: "minterapp.png"
   category: 2
+-
+  name: "Everhour"
+  description: "Time tracking and estimating inside your to-dos. Highly flexible reporting opportunities. "
+  website: "https://everhour.com/integrations/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=basecamp3-integrations-page"
+  icon: "everhour.png"
+  category: 2
