@@ -76,3 +76,9 @@
   website: "https://everhour.com/integrations/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=basecamp3-integrations-page"
   icon: "everhour.png"
   category: 2
+-
+  name: "Zapier"
+  description: "Automate your work day and connect Basecamp to 750+ business apps."
+  website: "https://zapier.com/zapbook/basecamp3/"
+  icon: "zapier.png"
+  category: 1
