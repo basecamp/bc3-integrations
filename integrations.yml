@@ -10,6 +10,13 @@
 # 7 - Customer Service and Support
 # 8 - Contracts and Proposals
 #
+
+-
+  name: "Zapier"
+  description: "Automate your work day and connect Basecamp to 750+ business apps."
+  website: "https://zapier.com/zapbook/basecamp3/"
+  icon: "zapier.png"
+  category: 1
 -
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
