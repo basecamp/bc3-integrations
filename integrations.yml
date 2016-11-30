@@ -9,6 +9,7 @@
 # 6 - Marketing, Design, and Asset Management
 # 7 - Customer Service and Support
 # 8 - Contracts and Proposals
+# 9 - Developer-only Tools
 #
 -
   name: "Tick"
@@ -94,3 +95,9 @@
   website: "https://automate.io/integration/basecamp-3"
   icon: "automate.io.png"
   category: 3	
+-
+  name: "OAuth.io"
+  description: "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
+  website: "https://oauth.io"
+  icon: "oauthio.png"
+  category: 9
