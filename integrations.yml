@@ -90,7 +90,7 @@
   category: 3
 -
   name: "OAuth.io"
-  description: "OAuth that just works ! Integrate easily a Basecamp connect to your web/mobile application in minutes."
+  description: "OAuth that just works ! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
   website: "https://oauth.io"
   icon: "oauthio.png"
   category: 5
