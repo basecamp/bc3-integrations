@@ -88,3 +88,9 @@
   website: "https://workstack.io"
   icon: "workstack.png"
   category: 3
+-
+  name: "OAuth.io"
+  description: "OAuth that just works ! Integrate easily a Basecamp connect to your web/mobile application in minutes."
+  website: "https://oauth.io"
+  icon: "oauthio.png"
+  category: 5
