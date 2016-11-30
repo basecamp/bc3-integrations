@@ -8,20 +8,19 @@ Your Basecamp 3 integration will be listed at [https://basecamp.com/extras](http
 
 To add your integration, please open a pull request.
 
-Edit [integrations.yml](integrations.yml) and add a new entry to the bottom of the list.
+1. Add your icon file to the [icons/](icons/) folder. Icons must be `256x256` in `.png` format.
+2. Add an entry to [integrations.yml](integrations.yml) with your integration's `name`, `description`, `website`, `icon`, and `category` (categories are identified at the top).
 
-Include the `name`, `description`, `website`, `icon`, and `category`. Categories are identified at the top of [integrations.yml](integrations.yml).
+  Example:
+  ```yaml
+  -
+    name: "Basecamp 3 App"
+    description: "Basecamp 3 for Mac and Windows"
+    website: "https://basecamp.com/3/via"
+    icon: "basecamp3.png"
+    category: 1
+  ```
 
-Example:
-```yaml
--
-  name: "Basecamp 3 App"
-  description: "Basecamp 3 for Mac and Windows"
-  website: "https://basecamp.com/3/via"
-  icon: "basecamp3.png"
-  category: 1
-```
 
-Add your icon file to the [icons/](icons/) folder. Icons must be `256x256` in `.png` format.
 
 Thank you!
