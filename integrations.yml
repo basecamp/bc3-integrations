@@ -110,6 +110,6 @@
 -
   name: "To-do Plate"
   description: "All to-dos of all basecamps in one place, on one calendar."
-  website: "https://www.todoplate.com"
+  website: "http://www.todoplate.com"
   icon: "todoplate.png"
   category: 3
