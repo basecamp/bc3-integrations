@@ -107,3 +107,9 @@
   website: "https://www.klipfolio.com"
   icon: "klipfolio.png"
   category: 3
+-
+  name: "TaskClone"
+  description: "Automatically Get Evernote & OneNote checklists and tasks into Basecamp."
+  website: "https://www.taskclone.com"
+  icon: "taskclone.png"
+  category: 1
