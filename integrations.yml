@@ -18,6 +18,12 @@
   icon: "tick_BC3.png"
   category: 2
 -
+  name: "Automate.io"
+  description: "Connect Basecamp with 50+ apps. Slack, Gmail, Trello, Google Calendar, Google Sheets, Wufoo, Pipedrive and more."
+  website: "https://automate.io/integration/basecamp-3"
+  icon: "automate.io.png"
+  category: 3	
+-
   name: "DNS Check"
   description: "DNS Check enables you to easily monitor, share and troubleshoot DNS records."
   website: "https://www.dnscheck.co/basecamp-3"
