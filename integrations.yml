@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "BugMuncher"
+  description: "Website feedback with screenshots. Create todos in Basecamp directly from your website."
+  website: "https://www.bugmuncher.com"
+  icon: "bugmuncher.png"
+  category: 5
+-
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
   website: "https://www.tickspot.com/basecamp"
