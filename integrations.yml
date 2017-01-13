@@ -113,3 +113,9 @@
   website: "https://www.klipfolio.com"
   icon: "klipfolio.png"
   category: 3
+-
+  name: "To-do Plate"
+  description: "All to-dos of all basecamps in one place, on one calendar."
+  website: "http://www.todoplate.com"
+  icon: "todoplate.png"
+  category: 3
