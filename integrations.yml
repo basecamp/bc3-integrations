@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "mediatrigger.io"
+  description: "Get notified in Basecamp when your Company is mentioned on Twitter, Facebook or Instagram"
+  website: "https://www.mediatrigger.io"
+  icon: "mediatrigger.png"
+  category: 6
+-
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
   website: "https://www.tickspot.com/basecamp"
