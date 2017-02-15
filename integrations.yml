@@ -131,3 +131,9 @@
   website: "http://www.todoplate.com"
   icon: "todoplate.png"
   category: 3
+-
+  name: "SupportBee"
+  description: "Turn customer support emails into Basecamp discussions, to-do lists or items"
+  website: "https://supportbee.com/integrations/basecamp"
+  icon: "supportbee.png"
+  category: 7
