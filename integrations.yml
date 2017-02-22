@@ -137,3 +137,9 @@
   website: "https://supportbee.com/integrations/basecamp"
   icon: "supportbee.png"
   category: 7
+-
+  name: "Ziflow"
+  description: "Ziflow automates file processing tasks and processes that you'd prefer to give to a robot."
+  website: "https://www.ziflow.com/basecamp-integration"
+  icon: "ziflow.png"
+  category: 6
