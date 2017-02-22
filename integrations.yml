@@ -13,25 +13,25 @@
 #
 -
   name: "mediatrigger.io"
-  description: "Get notified in Basecamp when your Company is mentioned on Twitter, Facebook or Instagram"
+  description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
   website: "https://www.mediatrigger.io"
   icon: "mediatrigger.png"
   category: 6
 -
   name: "Tick"
-  description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
+  description: "Straightforward time tracking for Basecamp. Add timers to your to-dos."
   website: "https://www.tickspot.com/basecamp"
   icon: "tick_BC3.png"
   category: 2
 -
   name: "Calamari"
-  description: "Modern HR, leave management system with attendance tracking module with iBeacons."
+  description: "Modern HR and leave management system with iBeacon attendance tracking."
   website: "https://calamari.io?cp=basecamp&utm_campaign=basecamp&utm_medium=basecamp&utm_source=basecamp"
   icon: "calamari.png"
   category: 2
 -
   name: "DNS Check"
-  description: "DNS Check enables you to easily monitor, share and troubleshoot DNS records."
+  description: "DNS Check enables you to easily monitor, share, and troubleshoot DNS records."
   website: "https://www.dnscheck.co/basecamp-3"
   icon: "dns-check.png"
   category: 3
@@ -73,19 +73,19 @@
   category: 3
 -
   name: "TestLodge"
-  description: "A test management tool that will create to-dos whenever a test fails allowing you to use Basecamp as an issue tracker."
+  description: "A test management tool that creates to-dos whenever a test fails, allowing you to use Basecamp as an issue tracker."
   website: "http://www.testlodge.com"
   icon: "testlodge.png"
   category: 5
 -
   name: "MinterApp"
-  description: "Minterapp is a simple project time tracking and invoicing tool to help streamline your business."
+  description: "Minterapp is a simple project time tracking and invoicing tool that helps streamline your business."
   website: "http://www.minterapp.com/basecamp-3-time-tracking/"
   icon: "minterapp.png"
   category: 2
 -
   name: "Everhour"
-  description: "Time tracking and estimating inside your to-dos. Highly flexible reporting opportunities. "
+  description: "Time tracking and estimating inside your to-dos. Highly flexible reporting opportunities."
   website: "https://everhour.com/integrations/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=basecamp3-integrations-page"
   icon: "everhour.png"
   category: 2
@@ -97,7 +97,7 @@
   category: 1
 -
   name: "Workstack"
-  description: "Visualize and schedule all your Basecamp To-Dos on one interactive team calendar with an intuitive drag & drop interface."
+  description: "Visualize and schedule all your Basecamp to-dos on one interactive team calendar with an intuitive drag & drop interface."
   website: "https://workstack.io"
   icon: "workstack.png"
   category: 3
@@ -121,25 +121,25 @@
   category: 3
 -
   name: "TaskClone"
-  description: "Automatically Get Evernote & OneNote checklists and tasks into Basecamp."
+  description: "Automatically get Evernote & OneNote checklists and tasks in Basecamp."
   website: "https://www.taskclone.com"
   icon: "taskclone.png"
   category: 1
 -
   name: "To-do Plate"
-  description: "All to-dos of all basecamps in one place, on one calendar."
+  description: "All to-dos in one place, on one calendar."
   website: "http://www.todoplate.com"
   icon: "todoplate.png"
   category: 3
 -
   name: "BSyncPro 3"
-  description: "Sync Basecamp 3 with Salesforce. Bring Basecamp Projects, Todo Lists and Todos and everything else directly into Salesforce."
+  description: "Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce."
   website: "http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
   icon: "BsyncPro3.png"
   category: 3
 -
   name: "SupportBee"
-  description: "Turn customer support emails into Basecamp discussions, to-do lists or items"
+  description: "Turn customer support emails into Basecamp discussions and to-dos."
   website: "https://supportbee.com/integrations/basecamp"
   icon: "supportbee.png"
   category: 7
