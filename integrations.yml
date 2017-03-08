@@ -143,3 +143,9 @@
   website: "https://www.ziflow.com/basecamp-integration"
   icon: "ziflow.png"
   category: 6
+-
+  name: "Work Bins Outlook Plugin"
+  description: "Link email conversations to Basecamp projects and post email content to a discussion or a to-do."
+  website: "https://www.work-bins.com/"
+  icon: "workbins.png"
+  category: 1
