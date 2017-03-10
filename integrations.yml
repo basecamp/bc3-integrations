@@ -143,3 +143,9 @@
   website: "https://www.ziflow.com/basecamp-integration"
   icon: "ziflow.png"
   category: 6
+-
+  name: "Usersnap"
+  description: "Get user feedback and bug reports attached to your Basecamp to-dos with Usersnap."
+  website: "https://usersnap.com/basecamp"
+  icon: "usersnap.png"
+  category: 5
