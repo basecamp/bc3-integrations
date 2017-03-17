@@ -131,6 +131,12 @@
   website: "http://www.todoplate.com"
   icon: "todoplate.png"
   category: 3
+-  
+  name: "BSyncPro 3"
+  description: "Sync Basecamp 3 with Salesforce. Bring Basecamp Projects, Todo Lists and Todos and everything else directly into Salesforce."
+  website: "http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
+  icon: "BsyncPro3.png"
+  category: 3
 -
   name: "SupportBee"
   description: "Turn customer support emails into Basecamp discussions and to-dos."
