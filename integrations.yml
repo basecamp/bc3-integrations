@@ -149,3 +149,9 @@
   website: "https://www.ziflow.com/basecamp-integration"
   icon: "ziflow.png"
   category: 6
+-
+  name: "CData Software Drivers for Basecamp"
+  description: "Standards-based drivers for Basecamp, including an ADO.NET Provider, JDBC Driver, ODBC Driver, Excel Add-In and more. Work with Basecamp data in your favorite BI, ETL, reporting tools as well as custom applications."
+  website: "http://www.cdata.com/drivers/basecamp"
+  icon: "cdata.png"
+  category: 9
