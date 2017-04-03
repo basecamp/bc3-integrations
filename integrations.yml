@@ -132,6 +132,12 @@
   icon: "todoplate.png"
   category: 3
 -
+  name: "BSyncPro 3"
+  description: "Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce."
+  website: "http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
+  icon: "BsyncPro3.png"
+  category: 3
+-
   name: "SupportBee"
   description: "Turn customer support emails into Basecamp discussions and to-dos."
   website: "https://supportbee.com/integrations/basecamp"
@@ -144,8 +150,15 @@
   icon: "ziflow.png"
   category: 6
 -
+  name: "Usersnap"
+  description: "Get user feedback and bug reports attached to your Basecamp to-dos with Usersnap."
+  website: "https://usersnap.com/basecamp"
+  icon: "usersnap.png"
+  category: 5
+-
   name: "Work Bins Outlook Plugin"
   description: "Link email conversations to Basecamp projects and post email content to a discussion or a to-do."
   website: "https://www.work-bins.com/"
   icon: "workbins.png"
   category: 1
+  
