@@ -161,4 +161,9 @@
   website: "https://www.work-bins.com/"
   icon: "workbins.png"
   category: 1
-
+-
+  name: "PomoDoneApp"
+  description: "Track time you spend on your Basecamp tasks using Pomodoro technique."
+  website: "http://pmdn.co/bc3"
+  icon: "pomodoneapp.png"
+  category: 2
