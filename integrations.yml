@@ -98,7 +98,7 @@
 -
   name: "Workstack"
   description: "Visualize and schedule all your Basecamp to-dos on one interactive team calendar with an intuitive drag & drop interface."
-  website: "https://workstack.io"
+  website: "https://workstack.io/?utm_source=basecamp&utm_medium=addon_link&utm_campaign=basecamp_extras"
   icon: "workstack.png"
   category: 3
 -
