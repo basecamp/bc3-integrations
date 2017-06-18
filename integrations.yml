@@ -167,3 +167,9 @@
   website: "http://pmdn.co/bc3"
   icon: "pomodoneapp.png"
   category: 2
+-
+  name: "Timesheetr"
+  description: "Visual Time Tracking for Creative Agencies. Done. Right."
+  website: "https://site.timesheetr.com/"
+  icon: "timesheetr.png"
+  category: 2
