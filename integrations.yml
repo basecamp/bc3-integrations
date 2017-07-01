@@ -173,3 +173,9 @@
   website: "https://site.timesheetr.com/"
   icon: "timesheetr.png"
   category: 2
+ -
+  name: "Tracked"
+  description: "Agile Todo Kanban Boards with customizable workflows and priorities, all within Basecamp's UI"
+  website: "https://www.trackedhq.com/"
+  icon: "tracked.png"
+  category: 5
