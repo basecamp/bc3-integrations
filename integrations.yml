@@ -179,3 +179,9 @@
   website: "https://www.trackedhq.com/"
   icon: "tracked.png"
   category: 5
+-
+  name: "Harvest"
+  description: "Track time without leaving Basecamp and let Harvest turn your time into insights."
+  website: "https://www.getharvest.com/basecamp-time-tracking"
+  icon: "harvest_logo.png"
+  category: 2
