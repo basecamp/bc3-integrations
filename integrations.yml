@@ -187,7 +187,7 @@
   category: 2
  -
   name: "Expiration Reminder"
-  description: "Track expiration dates and renewals and have them create Basecamp Todo's automatically on expiration."
+  description: "Track expiration dates and renewals and have them create Basecamp todo's automatically on expiration."
   website: "https://www.expirationreminder.net/basecamp-3"
   icon: "er-icon-bc.png"
   category: 3
