@@ -191,3 +191,9 @@
   website: "https://www.expirationreminder.net/basecamp-3"
   icon: "er-icon-bc.png"
   category: 3
+-
+  name: "Timeneye"
+  description: "Track time easily inside Basecamp. Keep track of your work and boost your productivity."
+  website: "https://www.timeneye.com/en/integrations/basecamp3-time-tracking"
+  icon: "timeneye.png"
+  category: 2
