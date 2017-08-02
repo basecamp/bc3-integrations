@@ -175,7 +175,7 @@
   category: 2
 -
   name: "Tracked"
-  description: "Agile To-do Kanban Boards with customizable workflows and priorities, all within Basecamp's UI"
+  description: "Adds to-do labels and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
   website: "https://www.trackedhq.com/"
   icon: "tracked.png"
   category: 5
@@ -197,3 +197,4 @@
   website: "https://www.timeneye.com/en/integrations/basecamp3-time-tracking"
   icon: "timeneye.png"
   category: 2
+
