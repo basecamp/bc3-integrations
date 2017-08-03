@@ -175,7 +175,7 @@
   category: 2
 -
   name: "Tracked"
-  description: "Adds to-do labels and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
+  description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
   website: "https://www.trackedhq.com/"
   icon: "tracked.png"
   category: 5
