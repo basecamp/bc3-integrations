@@ -197,4 +197,10 @@
   website: "https://www.timeneye.com/en/integrations/basecamp3-time-tracking"
   icon: "timeneye.png"
   category: 2
+-
+  name: "Project Buddy"
+  description: "View and manage Basecamp todos without leaving your Microsoft Outlook client."
+  website: "https://store.office.com/en-us/app.aspx?assetid=WA104381105&sourcecorrid=dd231661-77aa-4b25-af8e-972d198b0bec&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false"
+  icon: "projectbuddy.png"
+  category: 1
 
