@@ -203,4 +203,9 @@
   website: "https://store.office.com/en-us/app.aspx?assetid=WA104381105&sourcecorrid=dd231661-77aa-4b25-af8e-972d198b0bec&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false"
   icon: "projectbuddy.png"
   category: 1
-
+-
+  name: "Slickplan"
+  description: "Everything you need to plan a website. Build, collaborate and share professional sitemaps, diagrams, design mockups and content plans."
+  website: "https://slickplan.com/"
+  icon: "slickplan.png"
+  category: 3
