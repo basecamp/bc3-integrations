@@ -209,3 +209,9 @@
   website: "https://slickplan.com/"
   icon: "slickplan.png"
   category: 3
+-
+  name: "DayBack Calendar"
+  description: "The schedule balancing calendar for Basecamp. Drag & drop to edit your Basecamp schedules alongside your Google Calendars."
+  website: "https://dayback.com/calendar-basecamp-3/"
+  icon: "dayback_logo.png"
+  category: 3
