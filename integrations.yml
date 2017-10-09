@@ -58,3 +58,9 @@
   website: "https://eazybi.com/integrations/basecamp"
   icon: "eazybi.png"
   category: 3
+-
+   name: "AssessTEAM"
+   description: "Continuous feedback based employee evaluation system & project profitability reporting suite."
+   website: "https://www.assessteam.com"
+   icon: "assess-team-logo.png"
+   category: 2
