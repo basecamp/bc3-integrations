@@ -34,7 +34,7 @@ class IntegrationsTest < TestCase
 
       assert_match WEBSITE_PATTERN, integration["website"], "website must be a valid URL"
 
-      assert (1..8).cover?(integration["category"]), "category must be between 1 and 8"
+      assert (1..9).cover?(integration["category"]), "category must be between 1 and 9"
       assert_kind_of Integer, integration["category"], "category must be an integer"
 
       icon_path = ICON_PATH.join(integration["icon"])
