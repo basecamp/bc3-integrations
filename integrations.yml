@@ -215,3 +215,9 @@
   website: "https://dayback.com/calendar-basecamp-3/"
   icon: "dayback_logo.png"
   category: 3
+  
+  name: "AssessTEAM"
+  description: "Continuous feedback based employee evaluation system & project profitability reporting suite."
+  website: "https://www.assessteam.com"
+  icon: "AssessTeam-256x256.png"
+  category: 2
