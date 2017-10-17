@@ -221,3 +221,9 @@
   website: "https://www.assessteam.com/basecamp-integration/"
   icon: "assess-team-logo.png"
   category: 2
+-
+  name: "Juto"
+  description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
+  website: "http://ju.to/basecamp3.html"
+  icon: "juto-logo.png"
+  category: 1
