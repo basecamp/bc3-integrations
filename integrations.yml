@@ -221,3 +221,9 @@
   website: "https://www.assessteam.com/basecamp-integration/"
   icon: "assess-team-logo.png"
   category: 2
+-
+  name: "Meta SaaS"
+  description: "View usage reporting, and manage contract renewals for all of the SaaS vendors in your organization."
+  website: "https://www.metasaas.com/integrations/basecamp"
+  icon: "metasaas.png"
+  category: 3
