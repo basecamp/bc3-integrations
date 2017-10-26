@@ -10,7 +10,48 @@
 # 7 - Customer Service and Support
 # 8 - Contracts and Proposals
 # 9 - Developer-only Tools
-#
+-
+  name: "Asana Sync"
+  description: "2 way sync of Basecamp to do's & Asana tasks. Work cross-functionally between teams without hassle with Unito."
+  website: "https://unito.io/sync/basecamp/asana?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=asana"
+  icon: "asana_logo.png"
+  category: 1
+-
+  name: "BitBucket Sync"
+  description: "2 way sync Basecamp to do's & Bitbucket Issues, connecting task, assignee, due date, description, attachments, and more with Unito."
+  website: "https://unito.io/sync/basecamp/bitbucket?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=bitbucket"
+  icon: "bitbucket_logo.png"
+  category: 5
+-
+  name: "GitHub Sync"
+  description: "2 way sync Basecamp to do's & GitHub issues with Unito, connecting business & development teams in the tools they love."
+  website: "https://unito.io/sync/basecamp/github?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=github"
+  icon: "github_logo.png"
+  category: 5
+-
+  name: "GitLab Sync"
+  description: "2 way sync Basecamp to do's & GitLab issues. Sync your teams' tasks & collaborate better with Unito!"
+  website: "https://unito.io/sync/basecamp/gitlabcom?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=gitlab"
+  icon: "gitlab_logo.png"
+  category: 5
+-
+  name: "JIRA Sync"
+  description: "Sync Basecamp to do's & JIRA issues; connect great PM tools together to work better across teams with Unito."
+  website: "https://unito.io/sync/basecamp/jira?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=jira"
+  icon: "jira_logo.png"
+  category: 1
+-
+  name: "Trello Sync"
+  description: "Connect Basecamp to do's to Trello cards with Unito. 2-way sync of business & development teams in the tools they love."
+  website: "https://unito.io/sync/basecamp/trello?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=trello"
+  icon: "trello_logo.png"
+  category: 1
+-
+  name: "Wrike Sync"
+  description: "2 way sync Basecamp to do's & Wrike tasks, connect great PM tools together to work better across teams with Unito."
+  website: "https://unito.io/sync/basecamp/wrike?utm_source=basecamp&utm_medium=marketplace&utm_campaign=&utm_content=wrike"
+  icon: "wrike_logo.png"
+  category: 1
 -
   name: "mediatrigger.io"
   description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
