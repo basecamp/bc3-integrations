@@ -111,7 +111,7 @@
   description: "Connect Basecamp with 50+ apps. Slack, Gmail, Trello, Google Calendar, Google Sheets, Wufoo, Pipedrive and more."
   website: "https://automate.io/integration/basecamp-3"
   icon: "automate.io.png"
-  category: 3
+  category: 1
 -
   name: "OAuth.io"
   description: "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
