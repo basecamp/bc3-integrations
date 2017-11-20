@@ -10,7 +10,12 @@
 # 7 - Customer Service and Support
 # 8 - Contracts and Proposals
 # 9 - Developer-only Tools
-#
+-
+  name: "Unito.io To-Do Sync"
+  description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more! Use Unito's powerful filters to 2-way sync all of your to-do's or just a few. Try it free today."
+  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign="
+  icon: "unito_logo.png"
+  category: 1
 -
   name: "mediatrigger.io"
   description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
