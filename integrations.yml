@@ -227,3 +227,9 @@
   website: "https://www.metasaas.com/integrations/basecamp"
   icon: "metasaas.png"
   category: 3
+-
+  name: "Pleexy"
+  description: "Manage and update your Basecamp to-dos from your Todoist or Wunderlist."
+  website: "https://pleexy.com"
+  icon: "pleexy.png"
+  category: 1
