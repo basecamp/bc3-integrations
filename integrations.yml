@@ -178,7 +178,7 @@
   description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
   website: "https://www.trackedhq.com/"
   icon: "tracked.png"
-  category: 5
+  category: 3
 -
   name: "Harvest"
   description: "Track time without leaving Basecamp and let Harvest turn your time into insights."
