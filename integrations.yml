@@ -236,6 +236,6 @@
 -
   name: "Userback"
   description: "Give users the right tools to collaborate and provide valuable feedback for you to manage."
-  website: "https://www.userback.io/"
+  website: "https://www.userback.io"
   icon: "userback.png"
   category: 5
