@@ -106,7 +106,7 @@
   description: "Connect Basecamp with 50+ apps. Slack, Gmail, Trello, Google Calendar, Google Sheets, Wufoo, Pipedrive and more."
   website: "https://automate.io/integration/basecamp-3"
   icon: "automate.io.png"
-  category: 3
+  category: 1
 -
   name: "OAuth.io"
   description: "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
@@ -178,7 +178,7 @@
   description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
   website: "https://www.trackedhq.com/"
   icon: "tracked.png"
-  category: 5
+  category: 3
 -
   name: "Harvest"
   description: "Track time without leaving Basecamp and let Harvest turn your time into insights."
@@ -221,6 +221,24 @@
   website: "https://www.assessteam.com/basecamp-integration/"
   icon: "assess-team-logo.png"
   category: 2
+-
+  name: "Meta SaaS"
+  description: "View usage reporting, and manage contract renewals for all of the SaaS vendors in your organization."
+  website: "https://www.metasaas.com/integrations/basecamp"
+  icon: "metasaas.png"
+  category: 3
+-
+  name: "Pleexy"
+  description: "Manage and update your Basecamp to-dos from your Todoist or Wunderlist."
+  website: "https://pleexy.com"
+  icon: "pleexy.png"
+  category: 1
+-
+  name: "Userback"
+  description: "Give users the right tools to collaborate and provide valuable feedback for you to manage."
+  website: "https://www.userback.io"
+  icon: "userback.png"
+  category: 5
 -
   name: "Juto"
   description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
