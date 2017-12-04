@@ -239,3 +239,9 @@
   website: "https://www.userback.io"
   icon: "userback.png"
   category: 5
+-
+  name: "Field Trip"
+  description: "Share your team's Basecamp activity in Slack."
+  website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
+  icon: "fieldtrip.png"
+  category: 1
