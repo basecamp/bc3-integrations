@@ -240,8 +240,8 @@
   icon: "userback.png"
   category: 5
 -
-  name: "Juto"
+  name: "Juto App Builder"
   description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
-  website: "http://ju.to/basecamp3.html"
+  website: "https://ju.to/basecamp3.html"
   icon: "juto-logo.png"
   category: 1
