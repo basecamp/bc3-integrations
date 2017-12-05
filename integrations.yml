@@ -240,6 +240,12 @@
   icon: "userback.png"
   category: 5
 -
+  name: "Juto App Builder"
+  description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
+  website: "https://ju.to/basecamp3.html"
+  icon: "juto-logo.png"
+  category: 1
+-
   name: "Field Trip"
   description: "Share your team's Basecamp activity in Slack."
   website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
