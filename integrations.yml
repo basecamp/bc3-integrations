@@ -257,3 +257,9 @@
   website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
   icon: "fieldtrip.png"
   category: 1
+-
+  name: "Instabug"
+  description: "Receive detailed bug reports from your mobile app directly to Basecamp to-dos with Instabug."
+  website: "https://instabug.com/integrations/basecamp"
+  icon: "instabug.png"
+  category: 5
