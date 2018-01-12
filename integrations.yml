@@ -263,3 +263,9 @@
   website: "https://instabug.com/integrations/basecamp"
   icon: "instabug.png"
   category: 5
+-
+  name: "ScrumDo"
+  description: "A lean-agile business improvement tool that seamlessly imports your existing Basecamp projects. When you add ScrumDo to Basecamp you can import your Schedules, ToDo List & ToDos directly into a ScrumDo visual board where events like ToDo List or ToDo creation, updates and deletions are mirrored between applications! ScrumDo helps leaders make better decisions and improve delivery of real value to your customers by coordinating the right work across teams with effective focus and collaboration."
+  website: "https://app.scrumdo.com/basecamp/integration"
+  icon: "scrumdo.com"
+  category: 5
