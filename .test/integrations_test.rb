@@ -4,6 +4,8 @@ require "yaml"
 require "pathname"
 require "uri"
 
+$VERBOSE = false
+
 class TestCase < MiniTest::Test
   ROOT_PATH = Pathname.new(__dir__).join("..")
   ICON_PATH = ROOT_PATH.join("icons")
