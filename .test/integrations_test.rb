@@ -24,6 +24,7 @@ end
 
 class IntegrationsTest < TestCase
   WEBSITE_PATTERN = /\A#{URI.regexp(%w( http https ))}\z/
+  MAX_DESCRIPTION_SIZE = 160
 
   each_integration do |name, integration|
     define_method "test_#{name.inspect}" do
@@ -31,6 +32,8 @@ class IntegrationsTest < TestCase
         assert present?(integration[field]), "#{field} can't be blank"
         assert_kind_of String, integration[field], "#{field} must be a string"
       end
+
+      assert (integration["description"].size <= MAX_DESCRIPTION_SIZE), "description exceeds the #{MAX_DESCRIPTION_SIZE} character limit"
 
       assert_match WEBSITE_PATTERN, integration["website"], "website must be a valid URL"
 
