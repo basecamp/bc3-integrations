@@ -265,7 +265,7 @@
   category: 5
 -
   name: "ScrumDo"
-  description: "A lean-agile business improvement tool that seamlessly imports your existing Basecamp projects. When you add ScrumDo to Basecamp you can import your Schedules, ToDo List & ToDos directly into a ScrumDo visual board where events like ToDo List or ToDo creation, updates and deletions are mirrored between applications! ScrumDo helps leaders make better decisions and improve delivery of real value to your customers by coordinating the right work across teams with effective focus and collaboration."
+  description: "Visualize your team's work as it flows through your process mirrored in ScrumDo. Discover and deliver successful outcomes the Lean, Agile, Scrum and Kanban way."
   website: "https://app.scrumdo.com/basecamp/integration"
   icon: "scrumdo.com.png"
   category: 5
