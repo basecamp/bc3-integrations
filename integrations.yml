@@ -263,3 +263,9 @@
   website: "https://instabug.com/integrations/basecamp"
   icon: "instabug.png"
   category: 5
+-
+  name: "ScrumDo"
+  description: "Visualize your team's work as it flows through your process mirrored in ScrumDo. Discover and deliver successful outcomes the Lean, Agile, Scrum and Kanban way."
+  website: "https://app.scrumdo.com/basecamp/integration"
+  icon: "scrumdo.com.png"
+  category: 5
