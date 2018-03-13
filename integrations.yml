@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "CloudApp"
+  description: "Complete tasks faster and improve communication inside Basecamp. Use CloudApp to create screenshots, screencasts, and GIFs then add them to Basecamp in seconds."
+  website: "https://www.getcloudapp.com/?utm_source=basecamp_cloudapppage_integration_lite&utm_medium=basecamp_integration_lite"
+  icon: "cloudapp_logo.png"
+  category: 1
+-
   name: "Unito.io To-Do Sync"
   description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
   website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
