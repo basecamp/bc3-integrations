@@ -132,12 +132,6 @@
   icon: "taskclone.png"
   category: 1
 -
-  name: "To-do Plate"
-  description: "All to-dos in one place, on one calendar."
-  website: "http://www.todoplate.com"
-  icon: "todoplate.png"
-  category: 3
--
   name: "BSyncPro 3"
   description: "Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce."
   website: "http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
