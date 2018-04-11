@@ -269,3 +269,9 @@
   website: "https://app.scrumdo.com/basecamp/integration"
   icon: "scrumdo.com.png"
   category: 5
+-
+  name: "Lucid Meetings"
+  description: "Organize meeting agendas and sync action items from meetings with Basecamp to-dos for easy followup"
+  website: "https://www.lucidmeetings.com/integrations/basecamp"
+  icon: "lucidmeetings.png"
+  category: 6
