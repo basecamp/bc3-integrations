@@ -156,9 +156,9 @@
   icon: "ziflow.png"
   category: 6
 -
-  name: "Usersnap"
-  description: "Get user feedback and bug reports attached to your Basecamp to-dos with Usersnap."
-  website: "https://usersnap.com/basecamp"
+  name: "Usersnap Classic"
+  description: "Get feedback and bug reports sent to your Basecamp 3 projects."
+  website: "https://usersnap.com/integrations/basecamp"
   icon: "usersnap.png"
   category: 5
 -
