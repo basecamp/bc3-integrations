@@ -275,3 +275,10 @@
   website: "https://www.lucidmeetings.com/integrations/basecamp"
   icon: "lucidmeetings.png"
   category: 6
+-
+  name: "Akita"
+  description: "Monitor the status of your Basecamp projects in Akita's powerful Customer Success Manage Platform."
+  website: "https://www.akitaapp.com?utm_source=basecamp"
+  icon: "akita.png"
+  category: 7
+
