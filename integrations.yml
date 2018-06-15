@@ -275,3 +275,9 @@
   website: "https://www.lucidmeetings.com/integrations/basecamp"
   icon: "lucidmeetings.png"
   category: 6
+-
+  name: "CData Software"
+  description: "Use standards-based drivers to connect to Basecamp data in any BI tool, including Excel, Tableau, Power BI, and more!"
+  website: "https://www.cdata.com/drivers/basecamp"
+  icon: "cdata.png"
+  category: 3
