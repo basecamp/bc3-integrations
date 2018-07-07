@@ -253,7 +253,7 @@
   category: 1
 -
   name: "Field Trip"
-  description: "Share your team's Basecamp activity in Slack."
+  description: "Share your team's Basecamp activity in Slack and Google Hangouts Chat."
   website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
   icon: "fieldtrip.png"
   category: 1
