@@ -156,9 +156,9 @@
   icon: "ziflow.png"
   category: 6
 -
-  name: "Usersnap"
-  description: "Get user feedback and bug reports attached to your Basecamp to-dos with Usersnap."
-  website: "https://usersnap.com/basecamp"
+  name: "Usersnap Classic"
+  description: "Get feedback and bug reports sent to your Basecamp 3 projects."
+  website: "https://usersnap.com/integrations/basecamp"
   icon: "usersnap.png"
   category: 5
 -
@@ -253,7 +253,7 @@
   category: 1
 -
   name: "Field Trip"
-  description: "Share your team's Basecamp activity in Slack."
+  description: "Share your team's Basecamp activity in Slack and Google Hangouts Chat."
   website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
   icon: "fieldtrip.png"
   category: 1
@@ -281,3 +281,10 @@
   website: "https://www.cdata.com/drivers/basecamp"
   icon: "cdata.png"
   category: 1
+-
+  name: "Akita"
+  description: "Monitor the status of your Basecamp projects in Akita's powerful Customer Success Manage Platform."
+  website: "https://www.akitaapp.com?utm_source=basecamp"
+  icon: "akita.png"
+  category: 7
+-
