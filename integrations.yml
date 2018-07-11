@@ -156,9 +156,10 @@
   icon: "ziflow.png"
   category: 6
 -
-  name: "Usersnap Classic"
+  name: "Usersnap"
+  description: "Get user feedback and bug reports attached to your Basecamp to-dos with Usersnap."
+  website: "https://usersnap.com/basecamp"
   description: "Get feedback and bug reports sent to your Basecamp 3 projects."
-  website: "https://usersnap.com/integrations/basecamp"
   icon: "usersnap.png"
   category: 5
 -
@@ -275,7 +276,7 @@
   website: "https://www.lucidmeetings.com/integrations/basecamp"
   icon: "lucidmeetings.png"
   category: 6
--
+-  
   name: "Akita"
   description: "Monitor the status of your Basecamp projects in Akita's powerful Customer Success Manage Platform."
   website: "https://www.akitaapp.com?utm_source=basecamp"
@@ -287,3 +288,10 @@
   website: "https://www.cdata.com/drivers/basecamp"
   icon: "cdata.png"
   category: 1
+-
+  name: "RSSBus"
+  description: "Easily integrate Basecamp data with 50+ sources, including files, databases, or cloud applications."
+  website: "https://www.rssbus.com/apps/ports/basecamp/"
+  icon: "RSSBus.png"
+  category: 1
+  
