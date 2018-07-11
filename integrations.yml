@@ -290,7 +290,7 @@
   category: 1
 -
   name: "RSSBus"
-  description: "A leading platform for data integration, giving your business the ability to easily integrate data from files, databases, or cloud applications."
+  description: "Easily integrate Basecamp data with 50+ sources, including files, databases, or cloud applications."
   website: "https://www.rssbus.com/apps/ports/basecamp/"
   icon: "RSSBus.png"
   category: 1
