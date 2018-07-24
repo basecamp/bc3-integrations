@@ -293,3 +293,9 @@
   website: "https://www.rssbus.com/apps/ports/basecamp/"
   icon: "RSSBus.png"
   category: 1
+-
+  name: "Ybug"
+  description: "Collect user feedback and detailed bug reports with screenshots right into your Basecamp project."
+  website: "https://ybug.io/integrations/basecamp"
+  icon: "ybug.png"
+  category: 5
