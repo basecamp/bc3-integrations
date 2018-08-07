@@ -305,3 +305,9 @@
   website: "https://clockify.me/basecamp-time-tracking"
   icon: "clockify.png"
   category: 2
+-
+  name: "TimeCamp"
+  description: "Track time on any task without leaving Basecamp"
+  website: "https://www.timecamp.com/en/integrations/basecamp-time-tracking/"
+  icon: "timecamp.png"
+  category: 2
