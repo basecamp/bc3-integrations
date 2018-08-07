@@ -302,6 +302,6 @@
 -
   name: "Clockify"
   description: "The only truly free time tracker and timesheet app for teams. Add timers to your to-dos."
-  website: "https://clockify.me"
+  website: "https://clockify.me/basecamp-time-tracking"
   icon: "clockify.png"
   category: 2
