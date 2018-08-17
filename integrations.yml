@@ -311,7 +311,7 @@
   website: "https://www.timecamp.com/en/integrations/basecamp-time-tracking/"
   icon: "timecamp.png"
   category: 2
-
+-
   name: "Pull Pokes"
   description: "Automatically assign To-Dos and send Campfire reminders when pull requests are opened."
   website: "https://pullpokes.com"
