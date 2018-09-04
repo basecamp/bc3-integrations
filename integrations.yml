@@ -9,60 +9,241 @@
 # 6 - Marketing, Design, and Asset Management
 # 7 - Customer Service and Support
 # 8 - Contracts and Proposals
+# 9 - Developer-only Tools
 #
 -
-  name: "Tick"
-  description: "Straightforward time tracking for Basecamp. Add timers to your To-Dos."
-  website: "https://www.tickspot.com/basecamp"
-  icon: "tick_BC3.png"
+  name: "MinterApp"
+  description: "Minterapp is a simple project time tracking and invoicing tool that helps streamline your business."
+  website: "http://www.minterapp.com/basecamp-3-time-tracking/"
+  icon: "minterapp.png"
   category: 2
 -
-  name: "DNS Check"
-  description: "DNS Check enables you to easily monitor, share and troubleshoot DNS records."
-  website: "https://www.dnscheck.co/basecamp-3"
-  icon: "dns-check.png"
-  category: 3
--
-  name: "Time Doctor"
-  description: "Time tracking and time management software that helps you to get a lot more done each day."
-  website: "https://www.timedoctor.com/basecamp.html"
-  icon: "timedoctor.png"
+  name: "Everhour"
+  description: "Time tracking and estimating inside your to-dos. Highly flexible reporting opportunities."
+  website: "https://everhour.com/integrations/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=basecamp3-integrations-page"
+  icon: "everhour.png"
   category: 2
 -
-  name: "Ganttify"
-  description: "Ganttify enables you to easily create gantt charts from your Basecamp projects."
-  website: "https://www.gantt-chart.com"
-  icon: "ganttify-logo.png"
+  name: "Zapier"
+  description: "Automate your work day and connect Basecamp to 750+ business apps."
+  website: "https://zapier.com/zapbook/basecamp3/"
+  icon: "zapier.png"
+  category: 1
+-
+  name: "Workstack"
+  description: "Visualize and schedule all your Basecamp to-dos on one interactive team calendar with an intuitive drag & drop interface."
+  website: "https://workstack.io/?utm_source=basecamp&utm_medium=addon_link&utm_campaign=basecamp_extras"
+  icon: "workstack.png"
   category: 3
 -
-  name: "Hubstaff"
-  description: "Hubstaff is a time tracking platform with in-depth reporting and employee payments."
-  website: "https://hubstaff.com/time_tracking_for_basecamp_3"
-  icon: "hubstaff.png"
+  name: "Automate.io"
+  description: "Connect Basecamp with 50+ apps. Slack, Gmail, Trello, Google Calendar, Google Sheets, Wufoo, Pipedrive and more."
+  website: "https://automate.io/integration/basecamp-3"
+  icon: "automate.io.png"
+  category: 1
+-
+  name: "OAuth.io"
+  description: "OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications."
+  website: "https://oauth.io"
+  icon: "oauthio.png"
+  category: 9
+-
+  name: "Klipfolio"
+  description: "All your business metrics in one dashboard."
+  website: "https://www.klipfolio.com"
+  icon: "klipfolio.png"
+  category: 3
+-
+  name: "TaskClone"
+  description: "Automatically get Evernote & OneNote checklists and tasks in Basecamp."
+  website: "https://www.taskclone.com"
+  icon: "taskclone.png"
+  category: 1
+-
+  name: "BSyncPro 3"
+  description: "Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce."
+  website: "http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html"
+  icon: "BsyncPro3.png"
+  category: 3
+-
+  name: "SupportBee"
+  description: "Turn customer support emails into Basecamp discussions and to-dos."
+  website: "https://supportbee.com/integrations/basecamp"
+  icon: "supportbee.png"
+  category: 7
+-
+  name: "Doorbell.io"
+  description: "Create Basecamp discussions and to-dos from customer feedback."
+  website: "https://doorbell.io/integrations/basecamp"
+  icon: "doorbell.png"
+  category: 7
+-
+  name: "Ziflow"
+  description: "Ziflow automates file processing tasks and processes that you'd prefer to give to a robot."
+  website: "https://www.ziflow.com/basecamp-integration"
+  icon: "ziflow.png"
+  category: 6
+-
+  name: "Usersnap Classic"
+  description: "Get feedback and bug reports sent to your Basecamp 3 projects."
+  website: "https://usersnap.com/integrations/basecamp"
+  icon: "usersnap.png"
+  category: 5
+-
+  name: "Work Bins Outlook Plugin"
+  description: "Link email conversations to Basecamp projects and post email content to a discussion or a to-do."
+  website: "https://www.work-bins.com/"
+  icon: "workbins.png"
+  category: 1
+-
+  name: "PomoDoneApp"
+  description: "Track time you spend on your Basecamp tasks using Pomodoro technique."
+  website: "http://pmdn.co/bc3"
+  icon: "pomodoneapp.png"
   category: 2
 -
-  name: "Easy Insight"
-  description: "Beautiful dashboards and custom reports to keep your Basecamp projects on track."
-  website: "https://www.easy-insight.com/solutions/basecamp.html"
-  icon: "easy-insight.png"
+  name: "Timesheetr"
+  description: "Visual Time Tracking for Creative Agencies. Done. Right."
+  website: "https://site.timesheetr.com/"
+  icon: "timesheetr.png"
+  category: 2
+-
+  name: "Tracked"
+  description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp's UI"
+  website: "https://www.trackedhq.com/"
+  icon: "tracked.png"
   category: 3
 -
-  name: "MangoBoard"
-  description: "A simple app that allows you to organize and track your Basecamp projects as they progress in a Kanban style board."
-  website: "http://board.splitmango.com"
-  icon: "mangoboard.png"
+  name: "Harvest"
+  description: "Track time without leaving Basecamp and let Harvest turn your time into insights."
+  website: "https://www.getharvest.com/basecamp-time-tracking"
+  icon: "harvest_logo.png"
+  category: 2
+-
+  name: "Expiration Reminder"
+  description: "Track expiration dates and renewals and have them create Basecamp todo's automatically on expiration."
+  website: "https://www.expirationreminder.net/basecamp-3"
+  icon: "er-icon-bc.png"
   category: 3
 -
-  name: "eazyBI"
-  description: "Custom Basecamp reports and dashboards made easy. Create compelling reports and dashboards with just a couple of clicks."
-  website: "https://eazybi.com/integrations/basecamp"
-  icon: "eazybi.png"
+  name: "Timeneye"
+  description: "Track time easily inside Basecamp. Keep track of your work and boost your productivity."
+  website: "https://www.timeneye.com/en/integrations/basecamp3-time-tracking"
+  icon: "timeneye.png"
+  category: 2
+-
+  name: "Project Buddy"
+  description: "View and manage Basecamp to-dos without leaving your Microsoft Outlook client."
+  website: "https://store.office.com/en-us/app.aspx?assetid=WA104381105&sourcecorrid=dd231661-77aa-4b25-af8e-972d198b0bec&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false"
+  icon: "projectbuddy.png"
+  category: 1
+-
+  name: "Slickplan"
+  description: "Everything you need to plan a website. Build, collaborate and share professional sitemaps, diagrams, design mockups and content plans."
+  website: "https://slickplan.com/"
+  icon: "slickplan.png"
   category: 3
 -
-  name: "TestLodge"
-  description: "A test management tool that will create to-dos whenever a test fails allowing you to use Basecamp as an issue tracker."
-  website: "http://www.testlodge.com"
-  icon: "testlodge.png"
+  name: "DayBack Calendar"
+  description: "The schedule balancing calendar for Basecamp. Drag & drop to edit your Basecamp schedules alongside your Google Calendars."
+  website: "https://dayback.com/calendar-basecamp-3/"
+  icon: "dayback_logo.png"
+  category: 3
+-
+  name: "AssessTEAM"
+  description: "Continuous feedback based employee evaluation system & project profitability reporting suite."
+  website: "https://www.assessteam.com/basecamp-integration/"
+  icon: "assess-team-logo.png"
+  category: 2
+-
+  name: "Meta SaaS"
+  description: "View usage reporting, and manage contract renewals for all of the SaaS vendors in your organization."
+  website: "https://www.metasaas.com/integrations/basecamp"
+  icon: "metasaas.png"
+  category: 3
+-
+  name: "Pleexy"
+  description: "Manage and update your Basecamp to-dos from your Todoist or Wunderlist."
+  website: "https://pleexy.com"
+  icon: "pleexy.png"
+  category: 1
+-
+  name: "Userback"
+  description: "Give users the right tools to collaborate and provide valuable feedback for you to manage."
+  website: "https://www.userback.io"
+  icon: "userback.png"
+  category: 5
+-
+  name: "Juto App Builder"
+  description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
+  website: "https://ju.to/basecamp3.html"
+  icon: "juto-logo.png"
+  category: 1
+-
+  name: "Field Trip"
+  description: "Share your team's Basecamp activity in Slack and Google Hangouts Chat."
+  website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
+  icon: "fieldtrip.png"
+  category: 1
+-
+  name: "Instabug"
+  description: "Receive detailed bug reports from your mobile app directly to Basecamp to-dos with Instabug."
+  website: "https://instabug.com/integrations/basecamp"
+  icon: "instabug.png"
+  category: 5
+-
+  name: "ScrumDo"
+  description: "Visualize your team's work as it flows through your process mirrored in ScrumDo. Discover and deliver successful outcomes the Lean, Agile, Scrum and Kanban way."
+  website: "https://app.scrumdo.com/basecamp/integration"
+  icon: "scrumdo.com.png"
+  category: 5
+-
+  name: "Lucid Meetings"
+  description: "Organize meeting agendas and sync action items with Basecamp to-dos for easy followup."
+  website: "https://www.lucidmeetings.com/integrations/basecamp"
+  icon: "lucidmeetings.png"
+  category: 6
+-
+  name: "Akita"
+  description: "Monitor the status of your Basecamp projects in Akita's powerful Customer Success Manage Platform."
+  website: "https://www.akitaapp.com?utm_source=basecamp"
+  icon: "akita.png"
+  category: 7
+-
+  name: "CData Software"
+  description: "Use standards-based drivers to connect to Basecamp data in any BI tool, including Excel, Tableau, Power BI, and more!"
+  website: "https://www.cdata.com/drivers/basecamp"
+  icon: "cdata.png"
+  category: 1
+-
+  name: "RSSBus"
+  description: "Easily integrate Basecamp data with 50+ sources, including files, databases, or cloud applications."
+  website: "https://www.rssbus.com/apps/ports/basecamp/"
+  icon: "RSSBus.png"
+  category: 1
+-
+  name: "Ybug"
+  description: "Collect user feedback and detailed bug reports with screenshots right into your Basecamp project."
+  website: "https://ybug.io/integrations/basecamp"
+  icon: "ybug.png"
+  category: 5
+-
+  name: "Clockify"
+  description: "The only truly free time tracker and timesheet app for teams. Add timers to your to-dos."
+  website: "https://clockify.me/basecamp-time-tracking"
+  icon: "clockify.png"
+  category: 2
+-
+  name: "TimeCamp"
+  description: "Track time on any task without leaving Basecamp"
+  website: "https://www.timecamp.com/en/integrations/basecamp-time-tracking/"
+  icon: "timecamp.png"
+  category: 2
+-
+  name: "Pull Pokes"
+  description: "Automatically assign To-Dos and send Campfire reminders when pull requests are opened."
+  website: "https://pullpokes.com"
+  icon: "pull-pokes.png"
   category: 5
  -
   name: "Bridge24"
