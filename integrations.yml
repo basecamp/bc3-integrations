@@ -1,3 +1,16 @@
+# Categories
+# ----------
+#
+# 1 - Mobile and Desktop Apps
+# 2 - Time Tracking, Invoicing, and Accounting
+# 3 - Reporting, Charts, Planning
+# 4 - File Backup & Synchronization
+# 5 - Software Development
+# 6 - Marketing, Design, and Asset Management
+# 7 - Customer Service and Support
+# 8 - Contracts and Proposals
+# 9 - Developer-only Tools
+#
 -
   name: "Unito.io To-Do Sync"
   description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
