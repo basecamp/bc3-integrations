@@ -1,16 +1,75 @@
-# Categories
-# ----------
-#
-# 1 - Mobile and Desktop Apps
-# 2 - Time Tracking, Invoicing, and Accounting
-# 3 - Reporting, Charts, Planning
-# 4 - File Backup & Synchronization
-# 5 - Software Development
-# 6 - Marketing, Design, and Asset Management
-# 7 - Customer Service and Support
-# 8 - Contracts and Proposals
-# 9 - Developer-only Tools
-#
+-
+  name: "Unito.io To-Do Sync"
+  description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
+  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
+  icon: "unito_logo.png"
+  category: 1
+-
+  name: "mediatrigger.io"
+  description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
+  website: "https://www.mediatrigger.io"
+  icon: "mediatrigger.png"
+  category: 6
+-
+  name: "Tick"
+  description: "Straightforward time tracking for Basecamp. Add timers to your to-dos."
+  website: "https://www.tickspot.com/basecamp"
+  icon: "tick_BC3.png"
+  category: 2
+-
+  name: "Calamari"
+  description: "Modern HR and leave management system with iBeacon attendance tracking."
+  website: "https://calamari.io?cp=basecamp&utm_campaign=basecamp&utm_medium=basecamp&utm_source=basecamp"
+  icon: "calamari.png"
+  category: 2
+-
+  name: "DNS Check"
+  description: "DNS Check enables you to easily monitor, share, and troubleshoot DNS records."
+  website: "https://www.dnscheck.co/basecamp-3"
+  icon: "dns-check.png"
+  category: 3
+-
+  name: "Time Doctor"
+  description: "Time tracking and time management software that helps you to get a lot more done each day."
+  website: "https://www.timedoctor.com/basecamp.html"
+  icon: "timedoctor.png"
+  category: 2
+-
+  name: "Ganttify"
+  description: "Ganttify enables you to easily create gantt charts from your Basecamp projects."
+  website: "https://www.gantt-chart.com"
+  icon: "ganttify-logo.png"
+  category: 3
+-
+  name: "Hubstaff"
+  description: "Hubstaff is a time tracking platform with in-depth reporting and employee payments."
+  website: "https://hubstaff.com/time_tracking_for_basecamp_3"
+  icon: "hubstaff.png"
+  category: 2
+-
+  name: "Easy Insight"
+  description: "Beautiful dashboards and custom reports to keep your Basecamp projects on track."
+  website: "https://www.easy-insight.com/solutions/basecamp.html"
+  icon: "easy-insight.png"
+  category: 3
+-
+  name: "MangoBoard"
+  description: "A simple app that allows you to organize and track your Basecamp projects as they progress in a Kanban style board."
+  website: "http://board.splitmango.com"
+  icon: "mangoboard.png"
+  category: 3
+-
+  name: "eazyBI"
+  description: "Custom Basecamp reports and dashboards made easy. Create compelling reports and dashboards with just a couple of clicks."
+  website: "https://eazybi.com/integrations/basecamp"
+  icon: "eazybi.png"
+  category: 3
+-
+  name: "TestLodge"
+  description: "A test management tool that creates to-dos whenever a test fails, allowing you to use Basecamp as an issue tracker."
+  website: "http://www.testlodge.com"
+  icon: "testlodge.png"
+  category: 5
 -
   name: "MinterApp"
   description: "Minterapp is a simple project time tracking and invoicing tool that helps streamline your business."
