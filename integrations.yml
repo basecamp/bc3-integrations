@@ -317,3 +317,9 @@
   website: "https://pullpokes.com"
   icon: "pull-pokes.png"
   category: 5
+-
+  name: "Bridge24"
+  description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
+  website: "https://bridge24.com/basecamp/"
+  icon: "bridge24.png"
+  category: 3
