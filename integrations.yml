@@ -318,6 +318,12 @@
   icon: "pull-pokes.png"
   category: 5
 -
+  name: "TMetric"
+  description: "TMetric is a work time tracker for freelancers, agencies, and companies."
+  website: "https://tmetric.com/integrations/basecamp-time-tracking/"
+  icon: "tmetric.png"
+  category: 2 
+-
   name: "Bridge24"
   description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
   website: "https://bridge24.com/basecamp/"
