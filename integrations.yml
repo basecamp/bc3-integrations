@@ -319,7 +319,7 @@
   category: 5
 -
   name: "TMetric"
-  description: "TMetric is a work time tracker for freelancers, agencies, and companies."
+  description: "Automatic time tracking of any task and project in Basecamp. Billing and invoicing included."
   website: "https://tmetric.com/integrations/basecamp-time-tracking/"
   icon: "tmetric.png"
   category: 2 
