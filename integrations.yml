@@ -318,6 +318,12 @@
   icon: "pull-pokes.png"
   category: 5
 -
+  name: "TMetric"
+  description: "Automatic time tracking of any task and project in Basecamp. Billing and invoicing included."
+  website: "https://tmetric.com/integrations/basecamp-time-tracking/"
+  icon: "tmetric.png"
+  category: 2 
+-
   name: "Bridge24"
   description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
   website: "https://bridge24.com/basecamp/"
