@@ -331,7 +331,7 @@
   category: 3
 -
   name: "Proposify"
-  description: "Impress clients and close more deals with the business proposal software that streamlines the creation of quotes, contracts, and other sales documents."
-  website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-  integration"
+  description: "Generate projects from accepted proposals and more. Import all your contacts and automatically generate a Basecamp project from a won proposal"
+  website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-integration"
   icon: "proposify.png"
   category: 8
