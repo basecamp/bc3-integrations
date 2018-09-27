@@ -329,3 +329,9 @@
   website: "https://bridge24.com/basecamp/"
   icon: "bridge24.png"
   category: 3
+-
+  name: "Proposify"
+  description: "Impress clients and close more deals with the business proposal software that streamlines the creation of quotes, contracts, and other sales documents."
+  website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-  integration"
+  icon: "proposify.png"
+  category: 8
