@@ -335,3 +335,9 @@
   website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-integration"
   icon: "proposify.png"
   category: 8
+- 
+  name: "Retool"
+  description: "The fast way to build internal tools. Pull in data from your own database and API, and build a tool to create new Basecamp to-dos from it."
+  website: "https://tryretool.com"
+  icon: "retool.png"
+  category: 1
