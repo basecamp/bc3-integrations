@@ -72,12 +72,6 @@
   icon: "mangoboard.png"
   category: 3
 -
-  name: "eazyBI"
-  description: "Custom Basecamp reports and dashboards made easy. Create compelling reports and dashboards with just a couple of clicks."
-  website: "https://eazybi.com/integrations/basecamp"
-  icon: "eazybi.png"
-  category: 3
--
   name: "TestLodge"
   description: "A test management tool that creates to-dos whenever a test fails, allowing you to use Basecamp as an issue tracker."
   website: "http://www.testlodge.com"
