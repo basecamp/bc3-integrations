@@ -335,3 +335,9 @@
   website: "https://tryretool.com?utm_medium=integration&utm_source=basecamp"
   icon: "retool.png"
   category: 1
+- 
+  name: "Timely"
+  description: “Get complete transparency over project management and team communication in Basecamp with fully automatic time tracking.”
+  website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
+  icon: "timely.png"
+  category: 2
