@@ -12,12 +12,6 @@
 # 9 - Developer-only Tools
 #
 -
-  name: "To-do Helpers"
-  description: "Auto-assign and auto-set due dates on your Basecamp to-dos"
-  website: "https://app.todohelpers.com"
-  icon: "todohelpers.png"
-  category: 1
--
   name: "Unito.io To-Do Sync"
   description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
   website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
@@ -347,3 +341,9 @@
   website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
   icon: "timely.png"
   category: 2
+-
+  name: "To-do Helpers"
+  description: "Auto-assign and auto-set due dates on your Basecamp to-dos"
+  website: "https://app.todohelpers.com"
+  icon: "todohelpers.png"
+  category: 1
