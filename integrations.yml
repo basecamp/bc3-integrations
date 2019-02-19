@@ -16,7 +16,7 @@
   name: "BrightGauge Software"
   description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
   website: "https://www.brightgauge.com/"
-  icon: "brightgauge.png"
+  icon: "brightgauge-pie.png"
   category: 3
 -
   name: "Unito.io To-Do Sync"
