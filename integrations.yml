@@ -11,6 +11,13 @@
 # 8 - Contracts and Proposals
 # 9 - Developer-only Tools
 #
+
+-
+  name: "BrightGauge Software"
+  description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+  website: "https://www.brightgauge.com/"
+  icon: "brightgauge.png"
+  category: 3
 -
   name: "Unito.io To-Do Sync"
   description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
@@ -316,7 +323,7 @@
   description: "Automatic time tracking of any task and project in Basecamp. Billing and invoicing included."
   website: "https://tmetric.com/integrations/basecamp-time-tracking/"
   icon: "tmetric.png"
-  category: 2 
+  category: 2
 -
   name: "Bridge24"
   description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
@@ -329,13 +336,13 @@
   website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-integration"
   icon: "proposify.png"
   category: 8
-- 
+-
   name: "Retool"
   description: "The fast way to build internal tools. Pull in data from your own database and API, and build a tool to create new Basecamp to-dos from it."
   website: "https://tryretool.com?utm_medium=integration&utm_source=basecamp"
   icon: "retool.png"
   category: 1
-- 
+-
   name: "Timely"
   description: "Get complete transparency over project management and team communication in Basecamp with fully automatic time tracking."
   website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
