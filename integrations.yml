@@ -13,12 +13,6 @@
 #
 
 -
-  name: "BrightGauge Software"
-  description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
-  website: "https://www.brightgauge.com/"
-  icon: "brightgauge.png"
-  category: 3
--
   name: "Unito.io To-Do Sync"
   description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
   website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
@@ -354,3 +348,9 @@
   website: "https://app.todohelpers.com"
   icon: "todohelpers.png"
   category: 1
+-
+  name: "BrightGauge Software"
+  description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+  website: "https://www.brightgauge.com/"
+  icon: "brightgauge.png"
+  category: 3
