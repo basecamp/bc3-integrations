@@ -353,9 +353,10 @@
   description: "Repeating to-dos directly in Basecamp"
   website: "https://www.recurhq.com/"
   icon: "recur.png"
+  category: 3
 -
   name: "BrightGauge Software"
   description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
   website: "https://www.brightgauge.com/"
-  icon: "brightgauge.png
+  icon: "brightgauge.png"
   category: 3
