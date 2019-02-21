@@ -347,3 +347,9 @@
   website: "https://app.todohelpers.com"
   icon: "todohelpers.png"
   category: 1
+-
+  name: "Recur"
+  description: "Repeating to-dos directly in Basecamp"
+  website: "https://www.recurhq.com/"
+  icon: "recur.png"
+  category: 3
