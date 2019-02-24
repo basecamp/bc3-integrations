@@ -353,3 +353,10 @@
   website: "https://www.fearlesstools.cloud/integrations/timeshift-basecamp/"
   icon: "timeshift-2 256x.png"
   category: 1
+-
+  name: "Recur"
+  description: "Repeating to-dos directly in Basecamp"
+  website: "https://www.recurhq.com/"
+  icon: "recur.png"
+  category: 3
+
