@@ -349,6 +349,12 @@
   icon: "todohelpers.png"
   category: 1
 -
+  name: "Timeshift Messenger"
+  description: "Add video recording, voice-transcription and more to your Basecamp discussions"
+  website: "https://www.fearlesstools.cloud/integrations/timeshift-basecamp/"
+  icon: "timeshift-2 256x.png"
+  category: 1
+-
   name: "Recur"
   description: "Repeating to-dos directly in Basecamp"
   website: "https://www.recurhq.com/"
