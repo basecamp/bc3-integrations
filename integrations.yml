@@ -19,12 +19,6 @@
   icon: "unito_logo.png"
   category: 1
 -
-  name: "mediatrigger.io"
-  description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
-  website: "https://www.mediatrigger.io"
-  icon: "mediatrigger.png"
-  category: 6
--
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your to-dos."
   website: "https://www.tickspot.com/basecamp"
