@@ -332,7 +332,7 @@
   category: 2
 -
   name: "To-do Helpers"
-  description: "Auto-assign and auto-set due dates on your Basecamp to-dos"
+  description: "Create recurring to-dos in Basecamp, and auto-assign and auto-set due dates on your Basecamp to-dos"
   website: "https://app.todohelpers.com"
   icon: "todohelpers.png"
   category: 1
