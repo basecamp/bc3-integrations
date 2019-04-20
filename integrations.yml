@@ -360,3 +360,9 @@
   website: "https://nokotime.com"
   icon: "noko.png"
   category: 2
+-
+  name: "Zoho Flow"
+  description: "Stay productive by connecting your Basecamp 3 with 300+ apps like Zoho CRM, Slack, Zendesk and more."
+  website: "https://zoho.com/flow/apps/basecamp-3/integrations/?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
+  icon: "zoho_flow.png"
+  category: 1
