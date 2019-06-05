@@ -363,6 +363,6 @@
 -
   name: "EvantoDesk"
   description: "Convert emails into to-dos, assign to-dos, mark as done in Basecamp when resolved in EvantoDesk (and vice-versa) and fire automations in EvantoDesk and more."
-  website: "https://evantodesk.com/?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
+  website: "https://evantodesk.com/basecamp?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
   icon: "evantodesk.png"
   category: 7
