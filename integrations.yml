@@ -378,3 +378,9 @@
   website: "https://track.ly/basecamp3-integration"
   icon: "trackly.png"
   category: 2
+-
+  name: "ClicData"
+  description: "100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
+  website: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
+  icon: "clicdata.png"
+  category: 3
