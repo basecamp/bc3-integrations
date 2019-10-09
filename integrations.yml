@@ -384,3 +384,9 @@
   website: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
   icon: "clicdata.png"
   category: 3
+-
+  name: "Jitbit Helpdesk"
+  description: "Convert help desk support tickets into Basecamp to-dos"
+  website: "https://www.jitbit.com/helpdesk/basecamp/"
+  icon: "jitbit.png"
+  category: 3
