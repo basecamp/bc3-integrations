@@ -390,3 +390,9 @@
   website: "https://www.jitbit.com/helpdesk/basecamp/"
   icon: "jitbit.png"
   category: 7
+-
+  name: "Toggl"
+  description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox - the simplest time tracker to help you get things done."
+  website: "https://www.toggl.com/toggl-button/"
+  icon: "toggl.png"
+  category: 2
