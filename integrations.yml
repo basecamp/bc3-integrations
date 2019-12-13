@@ -13,9 +13,9 @@
 #
 
 -
-  name: "Unito.io To-Do Sync"
-  description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
-  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
+  name: "Unito.io"
+  description: "Build your perfect workflow across tools and teams. Sync your Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
   icon: "unito_logo.png"
   category: 1
 -
