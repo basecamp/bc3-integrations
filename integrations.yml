@@ -396,3 +396,9 @@
   website: "https://www.toggl.com/toggl-button/"
   icon: "toggl.png"
   category: 2
+-
+  name: "Centreli"
+  description: "The easiest way to manage employees, track vacation, sick, and paid time off."
+  website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
+  icon: "centreli.png"
+  category: 2
