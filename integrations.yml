@@ -11,18 +11,13 @@
 # 8 - Contracts and Proposals
 # 9 - Developer-only Tools
 #
+
 -
-  name: "Unito.io To-Do Sync"
-  description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
-  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
+  name: "Unito.io"
+  description: "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
   icon: "unito_logo.png"
   category: 1
--
-  name: "mediatrigger.io"
-  description: "Get notified in Basecamp when your company is mentioned on Twitter, Facebook, or Instagram."
-  website: "https://www.mediatrigger.io"
-  icon: "mediatrigger.png"
-  category: 6
 -
   name: "Tick"
   description: "Straightforward time tracking for Basecamp. Add timers to your to-dos."
@@ -240,12 +235,6 @@
   icon: "userback.png"
   category: 5
 -
-  name: "Juto App Builder"
-  description: "Juto gives your company its own mobile app. Create your forms on the Juto website, define a workflow for each form and link with your Basecamp To-do lists."
-  website: "https://ju.to/basecamp3.html"
-  icon: "juto-logo.png"
-  category: 1
--
   name: "Field Trip"
   description: "Share your team's Basecamp activity in Slack and Google Hangouts Chat."
   website: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
@@ -263,12 +252,6 @@
   website: "https://app.scrumdo.com/basecamp/integration"
   icon: "scrumdo.com.png"
   category: 5
--
-  name: "Lucid Meetings"
-  description: "Organize meeting agendas and sync action items with Basecamp to-dos for easy followup."
-  website: "https://www.lucidmeetings.com/integrations/basecamp"
-  icon: "lucidmeetings.png"
-  category: 6
 -
   name: "Akita"
   description: "Monitor the status of your Basecamp projects in Akita's powerful Customer Success Manage Platform."
@@ -316,7 +299,7 @@
   description: "Automatic time tracking of any task and project in Basecamp. Billing and invoicing included."
   website: "https://tmetric.com/integrations/basecamp-time-tracking/"
   icon: "tmetric.png"
-  category: 2 
+  category: 2
 -
   name: "Bridge24"
   description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
@@ -329,15 +312,88 @@
   website: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-integration"
   icon: "proposify.png"
   category: 8
-- 
+-
   name: "Retool"
   description: "The fast way to build internal tools. Pull in data from your own database and API, and build a tool to create new Basecamp to-dos from it."
   website: "https://tryretool.com?utm_medium=integration&utm_source=basecamp"
   icon: "retool.png"
   category: 1
-- 
+-
   name: "Timely"
-  description: “Get complete transparency over project management and team communication in Basecamp with fully automatic time tracking.”
+  description: "Get complete transparency over project management and team communication in Basecamp with fully automatic time tracking."
   website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
   icon: "timely.png"
   category: 2
+-
+  name: "To-do Helpers"
+  description: "Create recurring to-dos in Basecamp, and auto-assign and auto-set due dates on your Basecamp to-dos"
+  website: "https://app.todohelpers.com"
+  icon: "todohelpers.png"
+  category: 1
+-
+  name: "Timeshift Messenger"
+  description: "Add video recording, voice-transcription and more to your Basecamp discussions"
+  website: "https://www.fearlesstools.cloud/integrations/timeshift-basecamp/"
+  icon: "timeshift.png"
+  category: 1
+-
+  name: "Recur"
+  description: "Repeating to-dos directly in Basecamp"
+  website: "https://www.recurhq.com/"
+  icon: "recur.png"
+  category: 3
+-
+  name: "BrightGauge Software"
+  description: "Track data about Basecamp usage through dashboards, gauges and reports, alongside other integrations, including Harvest and Dropbox."
+  website: "https://www.brightgauge.com/basecamp"
+  icon: "brightgauge.png"
+  category: 3
+-
+  name: "Noko Time Tracking"
+  description: "Fast & friendly time tracking for all your Basecamp projects"
+  website: "https://nokotime.com"
+  icon: "noko.png"
+  category: 2
+-
+  name: "Zoho Flow"
+  description: "Stay productive by connecting your Basecamp 3 with 300+ apps like Zoho CRM, Slack, Zendesk and more."
+  website: "https://zoho.com/flow/apps/basecamp-3/integrations/?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
+  icon: "zoho_flow.png"
+  category: 1
+-
+  name: "EvantoDesk"
+  description: "Convert emails into to-dos, assign to-dos, mark as done in Basecamp when resolved in EvantoDesk (and vice-versa) and fire automations in EvantoDesk and more."
+  website: "https://evantodesk.com/basecamp?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
+  icon: "evantodesk.png"
+  category: 7
+-
+  name: "Mr.ToDo"
+  description: "Create repeating tasks for free."
+  website: "https://mr-todo.com"
+  icon: "mr-todo.png"
+  category: 1
+-
+  name: "Track.ly"
+  description: "Sync all your Basecamp 3 projects and to-do with Track.ly by 500apps to automate time tracking and increase employee productivity."
+  website: "https://track.ly/basecamp3-integration"
+  icon: "trackly.png"
+  category: 2
+-
+  name: "ClicData"
+  description: "100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
+  website: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
+  icon: "clicdata.png"
+  category: 3
+-
+  name: "Jitbit Helpdesk"
+  description: "Convert help desk support tickets into Basecamp to-dos"
+  website: "https://www.jitbit.com/helpdesk/basecamp/"
+  icon: "jitbit.png"
+  category: 7
+-
+  name: "Toggl"
+  description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox - the simplest time tracker to help you get things done."
+  website: "https://www.toggl.com/toggl-button/"
+  icon: "toggl.png"
+  category: 2
+
