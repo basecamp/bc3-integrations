@@ -13,9 +13,9 @@
 #
 
 -
-  name: "Unito.io To-Do Sync"
-  description: "Sync your to do lists with other project management apps. Connect Basecamp to Trello, Asana, JIRA, Wrike, Planner, GitHub, GitLab, Bitbucket and more!"
-  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=marketplace"
+  name: "Unito.io"
+  description: "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
+  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
   icon: "unito_logo.png"
   category: 1
 -
@@ -391,8 +391,22 @@
   icon: "jitbit.png"
   category: 7
 -
+
   name: "WebWork Time Tracker"
   description: "Easily track your Basecamp projects and tasks, get powerful reports and boost productivity."
   website: "https://www.webwork-tracker.com/integrations/basecamp"
   icon: "webwork.png"
   category: 2
+-
+  name: "Toggl"
+  description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox - the simplest time tracker to help you get things done."
+  website: "https://www.toggl.com/toggl-button/"
+  icon: "toggl.png"
+  category: 2
+-
+  name: "Centreli"
+  description: "The easiest way to manage employees, track vacation, sick, and paid time off."
+  website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
+  icon: "centreli.png"
+  category: 2
+
