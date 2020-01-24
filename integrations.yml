@@ -391,12 +391,6 @@
   icon: "jitbit.png"
   category: 7
 -
-  name: "WebWork Time Tracker"
-  description: "Easily track your Basecamp projects and tasks, get powerful reports and boost productivity."
-  website: "https://www.webwork-tracker.com/integrations/basecamp"
-  icon: "webwork.png"
-  category: 2
--
   name: "Toggl"
   description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox - the simplest time tracker to help you get things done."
   website: "https://www.toggl.com/toggl-button/"
@@ -408,4 +402,9 @@
   website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
   icon: "centreli.png"
   category: 2
-
+-
+  name: "WebWork Time Tracker"
+  description: "Easily track your Basecamp projects and tasks, get powerful reports and boost productivity."
+  website: "https://www.webwork-tracker.com/integrations/basecamp"
+  icon: "webwork.png"
+  category: 2
