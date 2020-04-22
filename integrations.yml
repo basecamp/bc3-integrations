@@ -399,6 +399,6 @@
 -
   name: "TeamTime App"
   description: "Basecamp philosophy applied to time tracking for your teams: free for small teams, flat $15/month for unlimited users/projects; none of your Basecamp data is copied - just login with Basecamp and track."
-  website: "https://www.teamtimenow.com?ref=basecamp-integrations"
+  website: "https://www.trackteamtime.com?ref=basecamp-integrations"
   icon: "teamtime.png"
   category: 2
