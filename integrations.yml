@@ -43,12 +43,6 @@
   icon: "ganttify-logo.png"
   category: 3
 -
-  name: "Hubstaff"
-  description: "Hubstaff is a time tracking platform with in-depth reporting and employee payments."
-  website: "https://hubstaff.com/time_tracking_for_basecamp_3"
-  icon: "hubstaff.png"
-  category: 2
--
   name: "Easy Insight"
   description: "Beautiful dashboards and custom reports to keep your Basecamp projects on track."
   website: "https://www.easy-insight.com/solutions/basecamp.html"
@@ -361,12 +355,6 @@
   icon: "mr-todo.png"
   category: 1
 -
-  name: "Track.ly"
-  description: "Sync all your Basecamp 3 projects and to-do with Track.ly by 500apps to automate time tracking and increase employee productivity."
-  website: "https://track.ly/basecamp3-integration"
-  icon: "trackly.png"
-  category: 2
--
   name: "ClicData"
   description: "100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
   website: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
@@ -389,10 +377,4 @@
   description: "The easiest way to manage employees, track vacation, sick, and paid time off."
   website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
   icon: "centreli.png"
-  category: 2
--
-  name: "WebWork Time Tracker"
-  description: "Easily track your Basecamp projects and tasks, get powerful reports and boost productivity."
-  website: "https://www.webwork-tracker.com/integrations/basecamp"
-  icon: "webwork.png"
   category: 2
