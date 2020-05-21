@@ -378,3 +378,9 @@
   website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
   icon: "centreli.png"
   category: 2
+-
+  name: "C!Stats"
+  description: "Get free team statistics on Basecamp automatic check-ins"
+  website: "https://c-stats.herokuapp.com/"
+  icon: "cstats.png"
+  category: 3
