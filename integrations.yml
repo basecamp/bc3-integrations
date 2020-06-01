@@ -366,3 +366,9 @@
   website: "https://c-stats.herokuapp.com/"
   icon: "cstats.png"
   category: 3
+-
+  name: "GanttWork"
+  description: "Schedule with gantt charts and timelines all within Basecamp's UI."
+  website: "https://ganttwork.com"
+  icon: "ganttwork.png"
+  category: 3
