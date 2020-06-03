@@ -37,23 +37,11 @@
   icon: "dns-check.png"
   category: 3
 -
-  name: "Time Doctor"
-  description: "Time tracking and time management software that helps you to get a lot more done each day."
-  website: "https://www.timedoctor.com/basecamp.html"
-  icon: "timedoctor.png"
-  category: 2
--
   name: "Ganttify"
   description: "Ganttify enables you to easily create gantt charts from your Basecamp projects."
   website: "https://www.gantt-chart.com"
   icon: "ganttify-logo.png"
   category: 3
--
-  name: "Hubstaff"
-  description: "Hubstaff is a time tracking platform with in-depth reporting and employee payments."
-  website: "https://hubstaff.com/time_tracking_for_basecamp_3"
-  icon: "hubstaff.png"
-  category: 2
 -
   name: "Easy Insight"
   description: "Beautiful dashboards and custom reports to keep your Basecamp projects on track."
@@ -150,12 +138,6 @@
   website: "https://usersnap.com/integrations/basecamp"
   icon: "usersnap.png"
   category: 5
--
-  name: "Work Bins Outlook Plugin"
-  description: "Link email conversations to Basecamp projects and post email content to a discussion or a to-do."
-  website: "https://www.work-bins.com/"
-  icon: "workbins.png"
-  category: 1
 -
   name: "PomoDoneApp"
   description: "Track time you spend on your Basecamp tasks using Pomodoro technique."
@@ -283,23 +265,11 @@
   icon: "clockify.png"
   category: 2
 -
-  name: "TimeCamp"
-  description: "Track time on any task without leaving Basecamp"
-  website: "https://www.timecamp.com/en/integrations/basecamp-time-tracking/"
-  icon: "timecamp.png"
-  category: 2
--
   name: "Pull Pokes"
   description: "Automatically assign To-Dos and send Campfire reminders when pull requests are opened."
   website: "https://pullpokes.com"
   icon: "pull-pokes.png"
   category: 5
--
-  name: "TMetric"
-  description: "Automatic time tracking of any task and project in Basecamp. Billing and invoicing included."
-  website: "https://tmetric.com/integrations/basecamp-time-tracking/"
-  icon: "tmetric.png"
-  category: 2
 -
   name: "Bridge24"
   description: "Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available."
@@ -318,12 +288,6 @@
   website: "https://tryretool.com?utm_medium=integration&utm_source=basecamp"
   icon: "retool.png"
   category: 1
--
-  name: "Timely"
-  description: "Get complete transparency over project management and team communication in Basecamp with fully automatic time tracking."
-  website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
-  icon: "timely.png"
-  category: 2
 -
   name: "To-do Helpers"
   description: "Create recurring to-dos in Basecamp, and auto-assign and auto-set due dates on your Basecamp to-dos"
@@ -373,12 +337,6 @@
   icon: "mr-todo.png"
   category: 1
 -
-  name: "Track.ly"
-  description: "Sync all your Basecamp 3 projects and to-do with Track.ly by 500apps to automate time tracking and increase employee productivity."
-  website: "https://track.ly/basecamp3-integration"
-  icon: "trackly.png"
-  category: 2
--
   name: "ClicData"
   description: "100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
   website: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
@@ -396,6 +354,24 @@
   website: "https://www.toggl.com/toggl-button/"
   icon: "toggl.png"
   category: 2
+-
+  name: "Centreli"
+  description: "The easiest way to manage employees, track vacation, sick, and paid time off."
+  website: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
+  icon: "centreli.png"
+  category: 2
+-
+  name: "C!Stats"
+  description: "Get free team statistics on Basecamp automatic check-ins"
+  website: "https://c-stats.herokuapp.com/"
+  icon: "cstats.png"
+  category: 3
+-
+  name: "GanttWork"
+  description: "Schedule with gantt charts and timelines all within Basecamp's UI."
+  website: "https://ganttwork.com"
+  icon: "ganttwork.png"
+  category: 3
 -
   name: "TeamTime App"
   description: "Time tracking for teams using Basecamp: smoothest integration, best user experience, sane pricing, total privacy & security."
