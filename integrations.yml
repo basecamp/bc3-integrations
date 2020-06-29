@@ -378,3 +378,10 @@
   website: "https://www.trackteamtime.com?ref=basecamp-integrations"
   icon: "teamtime.png"
   category: 2
+-
+  name: "TaskBill.io"
+  description: "Synchronize your Basecamp Tasks, Track Your Time, and Invoice Your Clients"
+  website: "https://taskbill.io/?utm_source=basecamp"
+  icon: "taskbillio.png"
+  category: 2
+  
