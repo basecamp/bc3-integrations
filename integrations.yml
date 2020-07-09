@@ -384,4 +384,10 @@
   website: "https://taskbill.io/?utm_source=basecamp"
   icon: "taskbillio.png"
   category: 2
-  
+-
+  name: "TrackingTime"
+  description: "With TrackingTime for Basecamp get automatic timesheets and in-depth time analytics."
+  website: "https://trackingtime.co/time-tracking-for-basecamp-3?utm_source=basecamp"
+  icon: "trackingtime.png"
+  category: 2
+
