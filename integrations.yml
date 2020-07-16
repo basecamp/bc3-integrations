@@ -384,10 +384,16 @@
   website: "https://taskbill.io/?utm_source=basecamp"
   icon: "taskbillio.png"
   category: 2
--
+- 
   name: "TrackingTime"
   description: "With TrackingTime for Basecamp get automatic timesheets and in-depth time analytics."
   website: "https://trackingtime.co/time-tracking-for-basecamp-3?utm_source=basecamp"
   icon: "trackingtime.png"
   category: 2
-
+- 
+  name: "Zrix Time Tracking Software"
+  description: "Allows to record the time spent of projects, customize easily accessible reports & keep a track of time Zrix’s Basecamp time tracker"
+  website: "https://www.cmswebsiteservices.com/basecamp-time-tracker"
+  icon: "zrix-time-tracking.png"
+  category: 2
+  
