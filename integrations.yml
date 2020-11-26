@@ -396,3 +396,9 @@
   website: "https://www.cmswebsiteservices.com/basecamp-time-tracker"
   icon: "zrix-time-tracking.png"
   category: 2
+-
+  name: "Morris"
+  description: "Wrap up your website with a smarter feedback platform, that not only visually tracks tasks but creates a digital roadmap."
+  website: "https://www.morrisapp.com?utm_source=basecamp"
+  icon: "morrisapp.png"
+  category: 5
