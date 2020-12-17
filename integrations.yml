@@ -402,3 +402,9 @@
   website: "https://www.morrisapp.com?utm_source=basecamp"
   icon: "morrisapp.png"
   category: 5
+ -
+  name: "Track.ly"
+  description: "Track the time it takes your employees to complete tasks. Manage payroll, organize real-time reports, and much more, all with one easy-to-use app."
+  website: "https://track.ly/"
+  icon: "track.png"
+  category: 2
