@@ -289,6 +289,12 @@
   icon: "retool.png"
   category: 1
 -
+  name: "Timely"
+  description: "The leading automatic time tracking tool that offers user-level privacy by design."
+  website: "https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations"
+  icon: "timely.png"
+  category: 2
+-
   name: "To-do Helpers"
   description: "Create recurring to-dos in Basecamp, and auto-assign and auto-set due dates on your Basecamp to-dos"
   website: "https://app.todohelpers.com"
