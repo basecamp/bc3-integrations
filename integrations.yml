@@ -11,7 +11,12 @@
 # 8 - Contracts and Proposals
 # 9 - Developer-only Tools
 #
-
+-
+  name: "Saber Feedback"
+  description: "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button. 10-free trial."
+  website: "https://saberfeedback.com/docs/integrations/basecamp/"
+  icon: "saber-feedback.png"
+  category: 5
 -
   name: "Unito.io"
   description: "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
