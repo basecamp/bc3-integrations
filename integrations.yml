@@ -419,3 +419,9 @@
   website: "https://www.earnedvalue.app/basecamp"
   icon: "earnedvalueapp.png"
   category: 3
+-
+  name: "To-do Numbers"
+  description: "Automatically create a unique number for each to-do in Basecamp. Utilize auto generated numbers to quickly reference and search for to-dos."
+  website: "https://www.projectprocs.com/basecamp-auto-numbering"
+  icon: "projectprocs.png"
+  category: 3
