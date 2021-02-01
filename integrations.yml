@@ -425,3 +425,9 @@
   website: "https://www.projectprocs.com/basecamp-auto-numbering"
   icon: "projectprocs.png"
   category: 3
+-
+  name: "Honeybadger"
+  description: "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions"
+  website: "https://www.honeybadger.io/"
+  icon: "honeybadger.png"
+  category: 5
