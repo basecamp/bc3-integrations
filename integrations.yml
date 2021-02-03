@@ -420,6 +420,12 @@
   icon: "earnedvalueapp.png"
   category: 3
 -
+  name: "To-do Numbers"
+  description: "Automatically assign a unique number to each to-do in Basecamp. Allows for quickly referencing and searching for to-dos."
+  website: "https://www.projectprocs.com/basecamp-auto-numbering"
+  icon: "projectprocs.png"
+  category: 3
+-
   name: "Intro CRM"
   description: "Simple deal tracking and cash flow forecasting for entrepreneurs and freelancers."
   website: "https://introcrm.com/basecamp-crm-integration/"
