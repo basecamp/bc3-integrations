@@ -12,12 +12,6 @@
 # 9 - Developer-only Tools
 #
 -
-  name: "Intro CRM"
-  description: "Simple deal tracking and cash flow forecasting for entrepreneurs and freelancers."
-  website: "https://introcrm.com/basecamp-crm-integration/"
-  icon: "intro-crm-logo-256px.png"
-  category: 1
--
   name: "Saber Feedback"
   description: "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button. 10-free trial."
   website: "https://saberfeedback.com/docs/integrations/basecamp/"
@@ -425,3 +419,9 @@
   website: "https://www.earnedvalue.app/basecamp"
   icon: "earnedvalueapp.png"
   category: 3
+-
+  name: "Intro CRM"
+  description: "Simple deal tracking and cash flow forecasting for entrepreneurs and freelancers."
+  website: "https://introcrm.com/basecamp-crm-integration/"
+  icon: "intro-crm-logo-256px.png"
+  category: 1
