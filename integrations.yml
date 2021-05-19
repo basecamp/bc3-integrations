@@ -437,3 +437,9 @@
   website: "https://www.honeybadger.io/"
   icon: "honeybadger.png"
   category: 5
+-
+  name: "Monitask"
+  description: "Easy-to-use automatic time tracking software for Basecamp"
+  website: "https://www.monitask.com/en/integration/basecamp-3-time-tracking"
+  icon: "monitask.png"
+  category: 2
