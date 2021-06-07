@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "Cyclr"
+  description: "Integrate your application with Basecamp using a low-code integration toolkit"
+  website: "https://cyclr.com/integrate/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=integrations-pages"
+  icon: "cyclr.png"
+  category: 9
+-
   name: "Saber Feedback"
   description: "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button. 10-free trial."
   website: "https://saberfeedback.com/docs/integrations/basecamp/"
