@@ -437,3 +437,9 @@
   website: "https://www.honeybadger.io/"
   icon: "honeybadger.png"
   category: 5
+-
+  name: "Basecamp Migration"
+  description: "Automated way to migrate your project management systems"
+  website: "https://project-management.relokia.com/basecamp/"
+  icon: "pm-migration-relokia.png"
+  category: 7
