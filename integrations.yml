@@ -217,6 +217,11 @@
   category: 1
 -
   name: "Userback"
+  description: "Collect visual feedback and detailed bug reports with annotated screenshots and video recordings to your Basecamp to-do lists."
+  website: "https://www.userback.io/integration/basecamp"
+  icon: "userback.png"
+  category: 5
+
   description: "Give users the right tools to collaborate and provide valuable feedback for you to manage."
   website: "https://www.userback.io"
   icon: "userback.png"
@@ -443,3 +448,4 @@
   website: "https://project-management.relokia.com/basecamp/"
   icon: "pm-migration-relokia.png"
   category: 7
+
