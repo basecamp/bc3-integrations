@@ -431,12 +431,6 @@
   icon: "projectprocs.png"
   category: 3
 -
-  name: "Intro CRM"
-  description: "Simple deal tracking and cash flow forecasting for entrepreneurs and freelancers."
-  website: "https://introcrm.com/basecamp-crm-integration/"
-  icon: "intro-crm-logo-256px.png"
-  category: 1
--
   name: "Honeybadger"
   description: "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions"
   website: "https://www.honeybadger.io/"
