@@ -442,4 +442,9 @@
   website: "https://project-management.relokia.com/basecamp/"
   icon: "pm-migration-relokia.png"
   category: 7
-
+-
+  name: “Zluri”
+  description: “Monitor Basecamp users, usage & optimize Basecamp licenses”
+  website: “https://zluri.com”
+  icon: “zluri.png”
+  category: 3
