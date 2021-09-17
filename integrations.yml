@@ -12,6 +12,12 @@
 # 9 - Developer-only Tools
 #
 -
+  name: "Git Helpers"
+  description: "Link Basecamp to-do's and GitHub pull requests. Close to-do's automatically when PR's are merged, and keep to-do's up-to-date with PR status."
+  website: "https://githelpers.com"
+  icon: "githelpers.png"
+  category: 5
+-
   name: "Saber Feedback"
   description: "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button. 10-free trial."
   website: "https://saberfeedback.com/docs/integrations/basecamp/"
