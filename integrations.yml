@@ -26,7 +26,7 @@
 -
   name: "Unito.io"
   description: "Build your perfect workflow across tools and teams. Sync Basecamp to-do lists with Jira, Zendesk, HubSpot, Trello, Asana, Wrike, GitHub, GitLab, or Bitbucket."
-  website: "https://unito.io/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
+  website: "https://unito.io/basecamp-sync/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
   icon: "unito_logo.png"
   category: 1
 -
@@ -448,4 +448,3 @@
   website: "https://project-management.relokia.com/basecamp/"
   icon: "pm-migration-relokia.png"
   category: 7
-
