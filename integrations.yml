@@ -448,3 +448,9 @@
   website: "https://project-management.relokia.com/basecamp/"
   icon: "pm-migration-relokia.png"
   category: 7
+-
+  name: "Pro Backup"
+  description: "Get daily, automated backups of your Basecamp account"
+  website: "https://probackup.io/backup/basecamp"
+  icon: "probackup.png"
+  category: 4
