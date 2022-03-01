@@ -454,3 +454,9 @@
   website: "https://probackup.io/backup/basecamp"
   icon: "probackup.png"
   category: 4
+-
+  name: "Aureum"
+  description: "Connect Basecamp projects to all your customer data"
+  website: "https://www.aureumdata.com"
+  icon: "aureum.png"
+  category: 3
