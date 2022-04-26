@@ -60,12 +60,6 @@
   icon: "easy-insight.png"
   category: 3
 -
-  name: "MangoBoard"
-  description: "A simple app that allows you to organize and track your Basecamp projects as they progress in a Kanban style board."
-  website: "http://board.splitmango.com"
-  icon: "mangoboard.png"
-  category: 3
--
   name: "TestLodge"
   description: "A test management tool that creates to-dos whenever a test fails, allowing you to use Basecamp as an issue tracker."
   website: "http://www.testlodge.com"
