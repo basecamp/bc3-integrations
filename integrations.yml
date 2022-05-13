@@ -460,3 +460,9 @@
   website: "https://www.aureumdata.com/integrations"
   icon: "aureum.png"
   category: 3
+-
+  name: "ZapUp"
+  description: "Bring the best out of project management, collaboration, and communication with Basecamp integration"
+  website: "https://zapup.com/basecamp-3-integration"
+  icon: "zapup-logo.png"
+  category: 1
