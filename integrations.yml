@@ -454,3 +454,9 @@
   website: "https://www.aureumdata.com/integrations"
   icon: "aureum.png"
   category: 3
+-
+  name: "CozyCal Scheduling"
+  description: "Allow your guests to book support calls, video meetings, rooms, and more. New events are automatically added your Basecamp schedule."
+  website: "https://www.cozycal.com/basecamp-integration"
+  icon: "cozycal.png"
+  category: 7
