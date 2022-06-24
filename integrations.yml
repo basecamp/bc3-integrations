@@ -472,5 +472,10 @@
   website: "https://hourstack.com/integrations/basecamp"
   icon: "hourstack.png"
   category: 2
-
-
+-
+name: "Clockly" 
+description: "Time tracking and employee monitoring software" 
+website: "https://clockly.com" 
+icon: "clockly.png" 
+category: 2
+-
