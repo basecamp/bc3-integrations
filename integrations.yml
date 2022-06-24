@@ -473,9 +473,15 @@
   icon: "hourstack.png"
   category: 2
 -
-name: "Clockly" 
-description: "Time tracking and employee monitoring software" 
-website: "https://clockly.com" 
-icon: "clockly.png" 
-category: 2
+  name: "Clockly" 
+  description: "Time tracking and employee monitoring software" 
+  website: "https://clockly.com" 
+  icon: "clockly.png" 
+  category: 2
+-
+  name: "HipSocial"
+  description: "Convert social media user feedback and conversations into tasks with Basecamp integration."
+  website: "https://hipsocial.com/basecamp-integration"
+  icon: "hipsocial-logo.png"
+  category: 6
 -
