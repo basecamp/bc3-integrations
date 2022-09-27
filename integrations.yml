@@ -405,11 +405,11 @@ integrations:
     category: 7
   - title: "HourStack"
     description: "Schedule and track time for Basecamp tasks without interrupting your workflow using an HourStack timer embedded directly within Basecamp."
-    website: "https://hourstack.com/integrations/basecamp"
+    url: "https://hourstack.com/integrations/basecamp"
     image: extras/hourstack.png
     category: 2
   - title: "DataGrail"
     description: "Leading privacy management platform. Map personal data and automate DSRs to build trust and eliminate risk."
-    website: "https://www.datagrail.io"
+    url: "https://www.datagrail.io"
     image: extras/datagrail.png
     category: 7
