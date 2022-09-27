@@ -13,11 +13,10 @@ To add your integration, please open a pull request.
 
   Example:
   ```yaml
-  -
-    name: "Basecamp 3 App"
+  - title: "Basecamp 3 App"
     description: "Basecamp 3 for Mac and Windows"
     website: "https://basecamp.com/3/via"
-    icon: "basecamp3.png"
+    image: extras/basecamp3.png
     category: 1
   ```
 
