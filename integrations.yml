@@ -466,13 +466,13 @@
   website: "https://www.cozycal.com/basecamp-integration"
   icon: "cozycal.png"
   category: 7
-
+-
   name: "HourStack"
   description: "Schedule and track time for Basecamp tasks without interrupting your workflow using an HourStack timer embedded directly within Basecamp."
   website: "https://hourstack.com/integrations/basecamp"
   icon: "hourstack.png"
   category: 2
-
+-
   name: "DataGrail"
   description: "Leading privacy management platform. Map personal data and automate DSRs to build trust and eliminate risk."
   website: "https://www.datagrail.io"
