@@ -473,4 +473,9 @@
   icon: "hourstack.png"
   category: 2
 
+  name: "DataGrail"
+  description: "Leading privacy management platform. Map personal data and automate DSRs to build trust and eliminate risk."
+  website: "https://www.datagrail.io"
+  icon: "datagrail.png"
+  category: 7
 
