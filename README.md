@@ -15,7 +15,7 @@ To add your integration, please open a pull request.
   ```yaml
   - title: "Basecamp 3 App"
     description: "Basecamp 3 for Mac and Windows"
-    website: "https://basecamp.com/3/via"
+    url: "https://basecamp.com/3/via"
     image: extras/basecamp3.png
     category: 1
   ```
