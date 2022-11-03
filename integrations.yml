@@ -93,11 +93,6 @@ integrations:
     url: 'https://workstack.io/?utm_source=basecamp&utm_medium=addon_link&utm_campaign=basecamp_extras'
     image: extras/workstack.png
     category: 3
-  - title: 'Automate.io'
-    description: 'Connect Basecamp with 50+ apps. Slack, Gmail, Trello, Google Calendar, Google Sheets, Wufoo, Pipedrive and more.'
-    url: 'https://automate.io/integration/basecamp-3'
-    image: extras/automate-io.png
-    category: 1
   - title: 'OAuth.io'
     description: 'OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications.'
     url: 'https://oauth.io'
