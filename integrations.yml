@@ -265,7 +265,7 @@ integrations:
     category: 2
   - title: 'To-do Helpers'
     description: 'Create and share forms that submit directly to your Basecamp to-do lists. Auto-assign and auto-set due dates on your Basecamp to-dos.'
-    url: 'https://app.todohelpers.com' 
+    url: 'https://app.todohelpers.com'
     image: extras/todohelpers.png
     category: 1
   - title: 'Timeshift Messenger'
