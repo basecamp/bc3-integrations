@@ -260,7 +260,7 @@ integrations:
     category: 1
   - title: 'Timely'
     description: 'The leading automatic time tracking tool that offers user-level privacy by design.'
-    url: 'https://timelyapp.com/integrations/basecamp-time-tracking/?utm_source=basecamp&utm_medium=referral&utm_campaign=integrations'
+    url: 'https://timelyapp.com/integrations/basecamp'
     image: extras/timely.png
     category: 2
   - title: 'To-do Helpers'
