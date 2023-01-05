@@ -88,11 +88,6 @@ integrations:
     url: 'https://zapier.com/zapbook/basecamp3/'
     image: extras/zapier.png
     category: 1
-  - title: 'Workstack'
-    description: 'Visualize and schedule all your Basecamp to-dos on one interactive team calendar with an intuitive drag & drop interface.'
-    url: 'https://workstack.io/?utm_source=basecamp&utm_medium=addon_link&utm_campaign=basecamp_extras'
-    image: extras/workstack.png
-    category: 3
   - title: 'OAuth.io'
     description: 'OAuth that just works! Ease the OAuth integration of Basecamp API v3 and interact with its API in your web and mobile applications.'
     url: 'https://oauth.io'
