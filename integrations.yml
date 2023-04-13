@@ -348,11 +348,6 @@ integrations:
     url: 'https://www.cmswebsiteservices.com/basecamp-time-tracker'
     image: extras/zrix.png
     category: 2
-  - title: 'Morris'
-    description: 'Wrap up your website with a smarter feedback platform, that not only visually tracks tasks but creates a digital roadmap.'
-    url: 'https://www.morrisapp.com?utm_source=basecamp'
-    image: extras/morrisapp.png
-    category: 5
   - title: 'Earned Value App'
     description: 'Earned Value Management (industry standard project cost management) for Basecamp. Review metrics auto generated from Basecamp and time tracking software.'
     url: 'https://www.earnedvalue.app/basecamp'
