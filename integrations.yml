@@ -263,11 +263,6 @@ integrations:
     url: 'https://app.todohelpers.com'
     image: extras/todohelpers.png
     category: 1
-  - title: 'Timeshift Messenger'
-    description: 'Add video recording, voice-transcription and more to your Basecamp discussions'
-    url: 'http://fearlesstools.uk/timeshift-integrations/timeshift-basecamp/'
-    image: extras/timeshift.png
-    category: 1
   - title: 'Recur'
     description: 'Repeating to-dos directly in Basecamp'
     url: 'https://www.recurhq.com/'
