@@ -103,11 +103,6 @@ integrations:
     url: 'https://www.taskclone.com'
     image: extras/taskclone.png
     category: 1
-  - title: 'BSyncPro 3'
-    description: 'Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce.'
-    url: 'http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html'
-    image: extras/bsync-pro-3.png
-    category: 3
   - title: 'SupportBee'
     description: 'Turn customer support emails into Basecamp discussions and to-dos.'
     url: 'https://supportbee.com/integrations/basecamp'
