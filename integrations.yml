@@ -288,11 +288,6 @@ integrations:
     url: 'https://evantodesk.com/basecamp?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras'
     image: extras/evantodesk.png
     category: 7
-  - title: 'Mr.ToDo'
-    description: 'Create repeating tasks for free.'
-    url: 'https://mr-todo.com'
-    image: extras/mr-todo.png
-    category: 1
   - title: 'ClicData'
     description: '100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place.'
     url: 'https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp'
