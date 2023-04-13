@@ -313,11 +313,6 @@ integrations:
     url: 'https://c-stats.herokuapp.com/'
     image: extras/cstats.png
     category: 3
-  - title: 'GanttWork'
-    description: 'Schedule with gantt charts and timelines all within Basecamp’s UI.'
-    url: 'https://ganttwork.com'
-    image: extras/ganttwork.png
-    category: 3
   - title: 'TeamTime App'
     description: 'Time tracking for teams using Basecamp: smoothest integration, best user experience, sane pricing, total privacy & security.'
     url: 'https://www.trackteamtime.com?ref=basecamp-integrations'
