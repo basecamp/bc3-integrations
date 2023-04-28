@@ -103,11 +103,6 @@ integrations:
     url: 'https://www.taskclone.com'
     image: extras/taskclone.png
     category: 1
-  - title: 'BSyncPro 3'
-    description: 'Sync Basecamp 3 with Salesforce. Bring Basecamp projects, to-dos, and everything else directly into Salesforce.'
-    url: 'http://timelineiq.com/basecamp-salesforce-integration-sync-connect.html'
-    image: extras/bsync-pro-3.png
-    category: 3
   - title: 'SupportBee'
     description: 'Turn customer support emails into Basecamp discussions and to-dos.'
     url: 'https://supportbee.com/integrations/basecamp'
@@ -167,11 +162,6 @@ integrations:
     description: 'Everything you need to plan a website. Build, collaborate and share professional sitemaps, diagrams, design mockups and content plans.'
     url: 'https://slickplan.com/'
     image: extras/slickplan.png
-    category: 3
-  - title: 'DayBack Calendar'
-    description: 'The schedule balancing calendar for Basecamp. Drag & drop to edit your Basecamp schedules alongside your Google Calendars.'
-    url: 'https://dayback.com/calendar-basecamp-3/'
-    image: extras/dayback.png
     category: 3
   - title: 'AssessTEAM'
     description: 'Continuous feedback based employee evaluation system & project profitability reporting suite.'
@@ -263,11 +253,6 @@ integrations:
     url: 'https://app.todohelpers.com'
     image: extras/todohelpers.png
     category: 1
-  - title: 'Timeshift Messenger'
-    description: 'Add video recording, voice-transcription and more to your Basecamp discussions'
-    url: 'http://fearlesstools.uk/timeshift-integrations/timeshift-basecamp/'
-    image: extras/timeshift.png
-    category: 1
   - title: 'Recur'
     description: 'Repeating to-dos directly in Basecamp'
     url: 'https://www.recurhq.com/'
@@ -293,11 +278,6 @@ integrations:
     url: 'https://evantodesk.com/basecamp?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras'
     image: extras/evantodesk.png
     category: 7
-  - title: 'Mr.ToDo'
-    description: 'Create repeating tasks for free.'
-    url: 'https://mr-todo.com'
-    image: extras/mr-todo.png
-    category: 1
   - title: 'ClicData'
     description: '100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place.'
     url: 'https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp'
@@ -323,11 +303,6 @@ integrations:
     url: 'https://c-stats.herokuapp.com/'
     image: extras/cstats.png
     category: 3
-  - title: 'GanttWork'
-    description: 'Schedule with gantt charts and timelines all within Basecamp’s UI.'
-    url: 'https://ganttwork.com'
-    image: extras/ganttwork.png
-    category: 3
   - title: 'TeamTime App'
     description: 'Time tracking for teams using Basecamp: smoothest integration, best user experience, sane pricing, total privacy & security.'
     url: 'https://www.trackteamtime.com?ref=basecamp-integrations'
@@ -348,11 +323,6 @@ integrations:
     url: 'https://www.cmswebsiteservices.com/basecamp-time-tracker'
     image: extras/zrix.png
     category: 2
-  - title: 'Morris'
-    description: 'Wrap up your website with a smarter feedback platform, that not only visually tracks tasks but creates a digital roadmap.'
-    url: 'https://www.morrisapp.com?utm_source=basecamp'
-    image: extras/morrisapp.png
-    category: 5
   - title: 'Earned Value App'
     description: 'Earned Value Management (industry standard project cost management) for Basecamp. Review metrics auto generated from Basecamp and time tracking software.'
     url: 'https://www.earnedvalue.app/basecamp'
@@ -413,3 +383,8 @@ integrations:
     url: 'https://www.enchant.com/help-desk-integration-campfire'
     image: extras/enchant.png
     category: 7
+  - title: "Truto"
+    description: "Unified and Proxy APIs for Ticketing. Use Truto to build native integrations faster."
+    url: "https://truto.one/integrations/detail/basecamp"
+    image: extras/truto.png
+    category: 9
