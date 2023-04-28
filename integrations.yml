@@ -163,11 +163,6 @@ integrations:
     url: 'https://slickplan.com/'
     image: extras/slickplan.png
     category: 3
-  - title: 'DayBack Calendar'
-    description: 'The schedule balancing calendar for Basecamp. Drag & drop to edit your Basecamp schedules alongside your Google Calendars.'
-    url: 'https://dayback.com/calendar-basecamp-3/'
-    image: extras/dayback.png
-    category: 3
   - title: 'AssessTEAM'
     description: 'Continuous feedback based employee evaluation system & project profitability reporting suite.'
     url: 'https://www.assessteam.com/basecamp-integration/'
