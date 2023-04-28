@@ -378,3 +378,8 @@ integrations:
     url: "https://www.teamoclock.com/more-about/basecamp"
     image: extras/teamoclock.png
     category: 1
+  - title: "Truto"
+    description: "Unified and Proxy APIs for Ticketing. Use Truto to build native integrations faster."
+    url: "https://truto.one/integrations/detail/basecamp"
+    image: extras/truto.png
+    category: 9
