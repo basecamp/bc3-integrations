@@ -378,9 +378,9 @@ integrations:
     url: "https://www.teamoclock.com/more-about/basecamp"
     image: extras/teamoclock.png
     category: 1
-  - title: 'Enchant'
-    description: 'Send automatic notifications of your customer communications from Enchant's omnichannel shared inboxes to your Campfire rooms.'
-    url: 'https://www.enchant.com/help-desk-integration-campfire'
+  - title: "Enchant"
+    description: "Send automatic notifications of your customer communications from Enchant's omnichannel shared inboxes to your Campfire rooms."
+    url: "https://www.enchant.com/help-desk-integration-campfire"
     image: extras/enchant.png
     category: 7
   - title: "Truto"
