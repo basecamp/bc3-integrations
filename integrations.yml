@@ -388,3 +388,8 @@ integrations:
     url: "https://truto.one/integrations/detail/basecamp"
     image: extras/truto.png
     category: 9
+  - title: "Numerics - Business Dashboards"
+    description: "Track & share your Basecamp KPIs in real-time with the Numerics dashboard app for your iPhone, iPad, Mac, Apple TV and Apple Watch."
+    url: "https://cynapse.com/numerics-integrations/basecamp-dashboards/"
+    image: extras/numerics.png
+    category: 3
