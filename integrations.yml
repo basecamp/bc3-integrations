@@ -223,11 +223,6 @@ integrations:
     url: 'https://clockify.me/basecamp-time-tracking'
     image: extras/clockify.png
     category: 2
-  - title: 'Pull Pokes'
-    description: 'Automatically assign To-Dos and send Campfire reminders when pull requests are opened.'
-    url: 'https://pullpokes.com'
-    image: extras/pull-pokes.png
-    category: 5
   - title: 'Bridge24'
     description: 'Enhanced reporting & exporting capabilities for your to-dos. Power grid and export Excel are available.'
     url: 'https://bridge24.com/basecamp/'
