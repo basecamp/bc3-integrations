@@ -397,4 +397,4 @@ integrations:
     description: "Sync daily tasks or work between Basecamp & Moon HRM. Use filters & enhanced features for seamless collaboration"
     url: "https://www.moonapps.xyz/basecamp-extension/"
     image: extras/hrm.png
-    category: 5
+    category: 2
