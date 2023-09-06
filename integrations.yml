@@ -393,3 +393,8 @@ integrations:
     url: "https://www.teamretro.com/integrations/basecamp-integration"
     image: extras/teamretro.png
     category: 5
+  - title: "Time Tracker, Todo, Sprint Manager - Basecamp"
+    description: "Sync daily tasks or work between Basecamp & Moon HRM. Use filters & enhanced features for seamless collaboration"
+    url: "https://www.moonapps.xyz/basecamp-extension/"
+    image: extras/hrm.png
+    category: 2
