@@ -28,6 +28,11 @@ categories:
     slug: dev-tools
 
 integrations:
+  - title: 'Deskpro'
+    description: 'Link your Basecamp cards to your Deskpro tickets to streamline communication with users by making them easy to view and update.'
+    url: 'https://www.deskpro.com/apps/basecamp'
+    image: extras/deskpro.png
+    category: 7
   - title: 'Git Helpers'
     description: 'Link Basecamp to-do’s and GitHub pull requests. Close to-do’s automatically when PR’s are merged, and keep to-do’s up-to-date with PR status.'
     url: 'https://githelpers.com'
