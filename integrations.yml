@@ -403,3 +403,8 @@ integrations:
     url: "https://www.moonapps.xyz/basecamp-extension/"
     image: extras/hrm.png
     category: 2
+  - title: "Claritee"
+    description: "Claritee enables professionals to easily ideate, plan and collaborate on digital projects and assets."
+    url: "https://claritee.io"
+    image: extras/claritee.png
+    category: 3
