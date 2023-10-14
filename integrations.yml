@@ -403,6 +403,11 @@ integrations:
     url: "https://www.moonapps.xyz/basecamp-extension/"
     image: extras/hrm.png
     category: 2
+  - title: "SureTriggers"
+    description: "SureTriggers is a web-based automation tool that allows users to connect and automate processes between different online services, applications and WordPress plugins."
+    url: "https://suretriggers.com/integrations/basecamp/"
+    image: extras/suretrigger.png
+    category: 1
   - title: "Claritee"
     description: "Claritee enables professionals to easily ideate, plan and collaborate on digital projects and assets."
     url: "https://claritee.io/integrations/basecamp"
