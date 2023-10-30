@@ -413,3 +413,8 @@ integrations:
     url: "https://claritee.io/integrations/basecamp"
     image: extras/claritee.png
     category: 6
+  - title: "Nusii"
+    description: "Proposal software that enables you to create Basecamp projects from signed proposals and automatically attach the signed proposal as a PDF directly within your Basecamp projects."
+    url: "https://nusii.com/integrations/basecamp/"
+    image: extras/nusii.png
+    category: 8
