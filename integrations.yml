@@ -418,3 +418,8 @@ integrations:
     url: "https://nusii.com/integrations/basecamp/"
     image: extras/nusii.png
     category: 8
+  - title: "Helpwise"
+    description: "Manage all customer communication from a single place. Send automatic notifications of your customer queries to Basecamp chats."
+    url: "https://helpwise.io/integrations/basecamp/"
+    image: extras/helpwise.png
+    category: 7
