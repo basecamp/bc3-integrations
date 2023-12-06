@@ -423,3 +423,8 @@ integrations:
     url: "https://helpwise.io/integrations/basecamp/"
     image: extras/helpwise.png
     category: 7
+  - title: "Apideck"
+    description: "Apideck helps developers build native integrations faster through one API."
+    url: "https://www.apideck.com/connectors/basecamp"
+    image: extras/apideck.png
+    category: 9
