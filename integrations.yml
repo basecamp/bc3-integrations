@@ -428,3 +428,8 @@ integrations:
     url: "https://getcando.com"
     image: extras/cando.png
     category: 1
+  - title: "Apideck"
+    description: "Apideck helps developers build native integrations faster through one API."
+    url: "https://www.apideck.com/connectors/basecamp"
+    image: extras/apideck.png
+    category: 9
