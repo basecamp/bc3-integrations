@@ -423,6 +423,11 @@ integrations:
     url: "https://helpwise.io/integrations/basecamp/"
     image: extras/helpwise.png
     category: 7
+  - title: "Can Do!"
+    description: "Supercharge your Basecamp account with Can-Do mini-apps. Easily create Zoom meetings, mass archive, create to-dos and cards in bulk, and more!"
+    url: "https://getcando.com"
+    image: extras/cando.png
+    category: 1
   - title: "Apideck"
     description: "Apideck helps developers build native integrations faster through one API."
     url: "https://www.apideck.com/connectors/basecamp"
