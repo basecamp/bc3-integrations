@@ -435,6 +435,6 @@ integrations:
     category: 9
   - title: 'StartADAM'
     description: "Integrate team chat (Slack, MS Teams) with customer's tools (WhatsApp, SMS), and auto-send chat transcripts to Basecamp Projects, streamlining your workflow."
-    url: 'https://my.a.link/integrations'
+    url: 'https://startadam.com/startadam-integration-to-basecamp-setup-guide'
     image: extras/startadam.png
     category: 7
