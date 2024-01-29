@@ -433,3 +433,8 @@ integrations:
     url: 'https://startadam.com/startadam-integration-to-basecamp-setup-guide'
     image: extras/startadam.png
     category: 7
+  - title: "Marker.io"
+    description: "Collect website feedback and bug reports directly into your Basecamp project."
+    url: "https://marker.io/basecamp"
+    image: extras/marker-io.png
+    category: 5
