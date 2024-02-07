@@ -248,6 +248,11 @@ integrations:
     url: "https://timelyapp.com/integrations/basecamp"
     image: extras/timely.png
     category: 2
+  - title: "Timenotes"
+    description: "Effortless time tracking inside Basecamp with live sync across all devices. Enjoy clear reporting within fixed pricing for any team size."
+    url: "https://timenotes.io/basecamp-time-tracking"
+    image: extras/timenotes.png
+    category: 2
   - title: "To-do Helpers"
     description: "Create and share forms that submit directly to your Basecamp to-do lists. Auto-assign and auto-set due dates on your Basecamp to-dos."
     url: "https://app.todohelpers.com"
