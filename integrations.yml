@@ -128,10 +128,10 @@ integrations:
     url: "https://usersnap.com/integrations/basecamp"
     image: extras/usersnap.png
     category: 5
-  - title: "PomoDoneApp"
-    description: "Track time you spend on your Basecamp tasks using Pomodoro technique."
-    url: "http://pmdn.co/bc3"
-    image: extras/pomodoneapp.png
+  - title: "RoundPie"
+    description: "Track time you spend on your Basecamp tasks using Tomato technique."
+    url: "https://theroundpie.com/pomodoro-timer-for-basecamp.html"
+    image: extras/roundpie.png
     category: 2
   - title: "Timesheetr"
     description: "Visual Time Tracking for Creative Agencies. Done. Right."
