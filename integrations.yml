@@ -130,7 +130,7 @@ integrations:
     category: 5
   - title: "RoundPie"
     description: "Track time you spend on your Basecamp tasks using Tomato technique."
-    url: "http://pmdn.co/bc3"
+    url: "https://theroundpie.com/pomodoro-timer-for-basecamp.html"
     image: extras/roundpie.png
     category: 2
   - title: "Timesheetr"
