@@ -131,7 +131,7 @@ integrations:
   - title: "RoundPie"
     description: "Track time you spend on your Basecamp tasks using Tomato technique."
     url: "http://pmdn.co/bc3"
-    image: extras/pomodoneapp.png
+    image: extras/roundpie.png
     category: 2
   - title: "Timesheetr"
     description: "Visual Time Tracking for Creative Agencies. Done. Right."
