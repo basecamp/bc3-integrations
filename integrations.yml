@@ -26,9 +26,6 @@ categories:
   - category: 9
     title: "Developer-only Tools"
     slug: dev-tools
-  - category: 10
-    title: "Automation & Integration"
-    slug: automation-integration
 
 integrations:
   - title: "Deskpro"
@@ -445,4 +442,4 @@ integrations:
     description: "The Ultimate App for Integration and Automation. Seamlessly connect your favorite apps, automate tasks with ease, and create custom applications without coding."
     url: "https://monkedo.com/integrations/app/basecamp"
     image: extras/monkedo.png
-    category: 10
+    category: 1
