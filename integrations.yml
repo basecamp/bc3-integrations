@@ -438,3 +438,8 @@ integrations:
     url: "https://marker.io/basecamp"
     image: extras/marker-io.png
     category: 5
+  - title: "Monkedo"
+    description: "The Ultimate App for Integration and Automation. Seamlessly connect your favorite apps, automate tasks with ease, and create custom applications without coding."
+    url: "https://monkedo.com/integrations/app/basecamp"
+    image: extras/monkedo.png
+    category: 1
