@@ -443,3 +443,8 @@ integrations:
     url: "https://monkedo.com/integrations/app/basecamp"
     image: extras/monkedo.png
     category: 1
+  - title: "FeatValue"
+    description: "Client portal for agencies and service providers."
+    url: "https://www.featvalue.com/basecamp"
+    image: extras/featvalue.png
+    category: 7
