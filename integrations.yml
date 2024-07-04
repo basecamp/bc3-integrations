@@ -443,3 +443,8 @@ integrations:
     url: "https://monkedo.com/integrations/app/basecamp"
     image: extras/monkedo.png
     category: 1
+  - title: "AgencyDots"
+    description: "Centralize and Automatize the Project Reporting of Your Software Development Company."
+    url: "https://agencydots.com"
+    image: extras/agencydots.png
+    category: 1
