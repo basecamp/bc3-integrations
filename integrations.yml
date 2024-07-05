@@ -33,11 +33,6 @@ integrations:
     url: "https://www.deskpro.com/apps/basecamp"
     image: extras/deskpro.png
     category: 7
-  - title: "Git Helpers"
-    description: "Link Basecamp to-do’s and GitHub pull requests. Close to-do’s automatically when PR’s are merged, and keep to-do’s up-to-date with PR status."
-    url: "https://githelpers.com"
-    image: extras/githelpers.png
-    category: 5
   - title: "Saber Feedback"
     description: "Gather feedback, identify bugs and collect ideas from your visitors with our simple feedback button. 10-free trial."
     url: "https://saberfeedback.com/docs/integrations/basecamp/"
@@ -443,6 +438,11 @@ integrations:
     url: "https://monkedo.com/integrations/app/basecamp"
     image: extras/monkedo.png
     category: 1
+  - title: "FeatValue"
+    description: "Client portal for agencies and service providers."
+    url: "https://www.featvalue.com/basecamp"
+    image: extras/featvalue.png
+    category: 7
   - title: "AgencyDots"
     description: "Centralize and Automatize the Project Reporting of Your Software Development Company."
     url: "https://agencydots.com"
