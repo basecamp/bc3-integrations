@@ -443,3 +443,8 @@ integrations:
     url: "https://www.featvalue.com/basecamp"
     image: extras/featvalue.png
     category: 7
+  - title: "AgencyDots"
+    description: "Centralize and Automatize the Project Reporting of Your Software Development Company."
+    url: "https://agencydots.com"
+    image: extras/agencydots.png
+    category: 1
