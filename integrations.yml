@@ -150,7 +150,7 @@ integrations:
     category: 3
   - title: "Timeneye"
     description: "Track time easily inside Basecamp. Keep track of your work and boost your productivity."
-    url: "https://www.timeneye.com/en/integrations/basecamp3-time-tracking"
+    url: "https://www.timeneye.com/integrations/basecamp-time-tracking"
     image: extras/timeneye.png
     category: 2
   - title: "Project Buddy"
@@ -298,11 +298,6 @@ integrations:
     url: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
     image: extras/centreli.png
     category: 2
-  - title: "C!Stats"
-    description: "Get free team statistics on Basecamp automatic check-ins"
-    url: "https://c-stats.herokuapp.com/"
-    image: extras/cstats.png
-    category: 3
   - title: "TeamTime App"
     description: "Time tracking for teams using Basecamp: smoothest integration, best user experience, sane pricing, total privacy & security."
     url: "https://www.trackteamtime.com?ref=basecamp-integrations"
@@ -317,11 +312,6 @@ integrations:
     description: "With TrackingTime for Basecamp get automatic timesheets and in-depth time analytics."
     url: "https://trackingtime.co/time-tracking-for-basecamp-3?utm_source=basecamp"
     image: extras/trackingtime.png
-    category: 2
-  - title: "Zrix Time Tracking Software"
-    description: "Allows to record the time spent of projects, customize easily accessible reports & keep a track of time Zrix’s Basecamp time tracker"
-    url: "https://www.cmswebsiteservices.com/basecamp-time-tracker"
-    image: extras/zrix.png
     category: 2
   - title: "Earned Value App"
     description: "Earned Value Management (industry standard project cost management) for Basecamp. Review metrics auto generated from Basecamp and time tracking software."
@@ -348,11 +338,6 @@ integrations:
     url: "https://probackup.io/backup/basecamp?utm_source=basecamp_extras"
     image: extras/probackup.png
     category: 4
-  - title: "Aureum"
-    description: "Connect Basecamp projects to all your customer data"
-    url: "https://www.aureumdata.com/integrations"
-    image: extras/aureum.png
-    category: 3
   - title: "CozyCal Scheduling"
     description: "Allow your guests to book support calls, video meetings, rooms, and more. New events are automatically added your Basecamp schedule."
     url: "https://www.cozycal.com/basecamp-integration"
