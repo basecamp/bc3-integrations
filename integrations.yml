@@ -433,3 +433,8 @@ integrations:
     url: "https://agencydots.com"
     image: extras/agencydots.png
     category: 3
+  - title: "cloudeagle.ai"
+    description: "Get 100% visibility on your SaaS, streamline SaaS governance & procurement and spend less on every app"
+    url: "https://www.cloudeagle.ai/"
+    image: 
+    category: 3
