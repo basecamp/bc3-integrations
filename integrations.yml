@@ -433,3 +433,8 @@ integrations:
     url: "https://agencydots.com"
     image: extras/agencydots.png
     category: 3
+  - title: "cloudeagle.ai"
+    description: "CloudEagle.ai helps IT, security & Procurement teams manage, govern & renew all their SaaS apps from one single platform. Along with making SaaS management & governance a breeze, CloudEagle.ai has processed over $2bn and saved enterprises like RingCentral, Shiji, Recroom $150M. Using 500+ direct connectors and no code slack-enabled workflows, IT & security teams get 100% visibility into all applications, streamline employee onboarding/offboarding, access reviews, licence harvesting and renewals."
+    url: "https://www.cloudeagle.ai/"
+    image: extras/cloudeagle.ai.png
+    category: 3
