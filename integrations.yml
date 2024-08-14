@@ -433,3 +433,8 @@ integrations:
     url: "https://agencydots.com"
     image: extras/agencydots.png
     category: 3
+  - title: "viaSocket"
+    description: "Make Your Apps Chat & Dance Together with 6000+ Apps!"
+    url: "https://viasocket.com/?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
+    image: extras/viasocket.png
+    category: 9  
