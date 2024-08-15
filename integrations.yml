@@ -433,3 +433,8 @@ integrations:
     url: "https://agencydots.com"
     image: extras/agencydots.png
     category: 3
+  - title: "clockcamp"
+    description: "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+    url: "https://www.clockcamp.com/"
+    image: extras/clockcamp.png
+    category: 2
