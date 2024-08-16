@@ -6,10 +6,10 @@ categories:
     title: "Time Tracking, Invoicing, and Accounting"
     slug: tracking-invoicing-accounting
   - category: 3
-    title: "Reporting, Charts, Planning"
+    title: "Reporting, Charts, and Planning"
     slug: reporting-charts-planning
   - category: 4
-    title: "File Backup & Synchronization"
+    title: "File Backup and Synchronization"
     slug: backup-sync
   - category: 5
     title: "Software Development"
@@ -129,12 +129,12 @@ integrations:
     image: extras/roundpie.png
     category: 2
   - title: "Timesheetr"
-    description: "Visual Time Tracking for Creative Agencies. Done. Right."
+    description: "Visual time tracking for creative agencies. Done. Right."
     url: "https://site.timesheetr.com/"
     image: extras/timesheetr.png
     category: 2
   - title: "Tracked"
-    description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp’s UI"
+    description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp’s UI."
     url: "https://www.trackedhq.com/"
     image: extras/tracked.png
     category: 3
@@ -229,7 +229,7 @@ integrations:
     image: extras/bridge24.png
     category: 3
   - title: "Proposify"
-    description: "Generate projects from accepted proposals and more. Import all your contacts and automatically generate a Basecamp project from a won proposal"
+    description: "Generate projects from accepted proposals and more. Import all your contacts and automatically generate a Basecamp project from a won proposal."
     url: "https://www.proposify.com/tour/app-integrations/basecamp-proposal-software-integration"
     image: extras/proposify.png
     category: 8
@@ -254,7 +254,7 @@ integrations:
     image: extras/todohelpers.png
     category: 1
   - title: "Recur"
-    description: "Repeating to-dos directly in Basecamp"
+    description: "Repeating to-dos directly in Basecamp."
     url: "https://www.recurhq.com/"
     image: extras/recur.png
     category: 3
@@ -264,7 +264,7 @@ integrations:
     image: extras/brightgauge.png
     category: 3
   - title: "Noko Time Tracking"
-    description: "Fast & friendly time tracking for all your Basecamp projects"
+    description: "Fast & friendly time tracking for all your Basecamp projects."
     url: "https://nokotime.com"
     image: extras/noko.png
     category: 2
@@ -279,17 +279,17 @@ integrations:
     image: extras/evantodesk.png
     category: 7
   - title: "ClicData"
-    description: "100% cloud-based Business Intelligence and Data Warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
+    description: "100% cloud-based business intelligence and data warehousing platform. Connect, manage & visualize all your Basecamp and business data in a single place."
     url: "https://www.clicdata.com/connectors/basecamp/?csrc=basecamp&csid=lp"
     image: extras/clicdata.png
     category: 3
   - title: "Jitbit Helpdesk"
-    description: "Convert help desk support tickets into Basecamp to-dos"
+    description: "Convert help desk support tickets into Basecamp to-dos."
     url: "https://www.jitbit.com/helpdesk/basecamp/"
     image: extras/jitbit.png
     category: 7
   - title: "Toggl"
-    description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox - the simplest time tracker to help you get things done."
+    description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox — the simplest time tracker to help you get things done."
     url: "https://www.toggl.com/toggl-button/"
     image: extras/toggl.png
     category: 2
@@ -304,7 +304,7 @@ integrations:
     image: extras/teamtime.png
     category: 2
   - title: "TaskBill.io"
-    description: "Synchronize your Basecamp Tasks, Track Your Time, and Invoice Your Clients"
+    description: "Synchronize your Basecamp tasks, track your time, and invoice your clients."
     url: "https://taskbill.io/?utm_source=basecamp"
     image: extras/taskbillio.png
     category: 2
@@ -324,17 +324,17 @@ integrations:
     image: extras/projectprocs.png
     category: 3
   - title: "Honeybadger"
-    description: "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions"
+    description: "Use Honeybadger to get Campfire alerts about application errors, missing cron jobs, and downtime in your quest to be DevOps champions."
     url: "https://www.honeybadger.io/"
     image: extras/honeybadger.png
     category: 5
   - title: "PMS Data Migration"
-    description: "Automated way to migrate your project management system data"
+    description: "Automated way to migrate your project management system data."
     url: "https://project-management.relokia.com/basecamp/"
     image: extras/pm-migration-relokia.png
     category: 7
   - title: "Pro Backup"
-    description: "Get daily, automated backups of your Basecamp account"
+    description: "Get daily, automated backups of your Basecamp account."
     url: "https://probackup.io/backup/basecamp?utm_source=basecamp_extras"
     image: extras/probackup.png
     category: 4
@@ -359,7 +359,7 @@ integrations:
     image: extras/enchant.png
     category: 7
   - title: "Truto"
-    description: "Unified and Proxy APIs for Ticketing. Use Truto to build native integrations faster."
+    description: "Unified and proxy APIs for ticketing. Use Truto to build native integrations faster."
     url: "https://truto.one/integrations/detail/basecamp"
     image: extras/truto.png
     category: 9
@@ -419,7 +419,7 @@ integrations:
     image: extras/marker-io.png
     category: 5
   - title: "Monkedo"
-    description: "The Ultimate App for Integration and Automation. Seamlessly connect your favorite apps, automate tasks with ease, and create custom applications without coding."
+    description: "The Ultimate App for integration and automation. Seamlessly connect your favorite apps, automate tasks with ease, and create custom applications without coding."
     url: "https://monkedo.com/integrations/app/basecamp"
     image: extras/monkedo.png
     category: 1
@@ -429,12 +429,12 @@ integrations:
     image: extras/featvalue.png
     category: 7
   - title: "AgencyDots"
-    description: "Centralize and Automatize the Project Reporting of Your Software Development Company."
+    description: "Centralize and automatize the project reporting of your software development company."
     url: "https://agencydots.com"
     image: extras/agencydots.png
     category: 3
   - title: "clockcamp"
-    description: "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+    description: "Track your Basecamp Card Table (kanban) time using Clockify."
     url: "https://www.clockcamp.com/"
     image: extras/clockcamp.png
     category: 2
