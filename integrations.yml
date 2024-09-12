@@ -437,9 +437,14 @@ integrations:
     description: "Make Your Apps Chat & Dance Together with 6000+ Apps!"
     url: "https://viasocket.com/integrations/basecamp?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace_app"
     image: extras/viasocket.png
-    category: 9  
+    category: 9
   - title: "clockcamp"
     description: "Track your Basecamp Card Table (kanban) time using Clockify."
     url: "https://www.clockcamp.com/"
     image: extras/clockcamp.png
     category: 2
+  - title: "Ply"
+    description: "Build Features into Basecamp based on your processes, data, and AI. Streamline team and customer workflows in a whole new way. No code required."
+    url: "https://ply.io/integrations/basecamp3"
+    image: extras/ply.png
+    category: 1
