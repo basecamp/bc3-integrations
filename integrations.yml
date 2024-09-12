@@ -444,7 +444,7 @@ integrations:
     image: extras/clockcamp.png
     category: 2
   - title: "Ply"
-    description: "Build Features into Basecamp based on your processes, data, and AI. Streamline team and customer workflows in a whole new way. No code required."
+    description: "Build Features into Basecamp based on your processes, data, and AI. Streamline team and customer workflows in a whole new way."
     url: "https://ply.io/integrations/basecamp3"
     image: extras/ply.png
     category: 1
