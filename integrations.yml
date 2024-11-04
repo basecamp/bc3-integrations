@@ -295,7 +295,7 @@ integrations:
     category: 2
   - title: "Centreli"
     description: "The easiest way to manage employees, track vacation, sick, and paid time off."
-    url: "https://centreli.com/basecamp?utm_source=basecamp&utm_medium=extras&utm_campaign=basecamp_app"
+    url: "https://www.centreli.com/basecamp"
     image: extras/centreli.png
     category: 2
   - title: "TeamTime App"
