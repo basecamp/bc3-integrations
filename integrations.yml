@@ -118,11 +118,6 @@ integrations:
     url: "https://usersnap.com/integrations/basecamp"
     image: extras/usersnap.png
     category: 5
-  - title: "RoundPie"
-    description: "Track time you spend on your Basecamp tasks using Tomato technique."
-    url: "https://theroundpie.com/pomodoro-timer-for-basecamp.html"
-    image: extras/roundpie.png
-    category: 2
   - title: "Timesheetr"
     description: "Visual time tracking for creative agencies. Done. Right."
     url: "https://site.timesheetr.com/"
