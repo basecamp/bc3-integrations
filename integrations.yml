@@ -293,11 +293,6 @@ integrations:
     url: "https://www.trackteamtime.com?ref=basecamp-integrations"
     image: extras/teamtime.png
     category: 2
-  - title: "TaskBill.io"
-    description: "Synchronize your Basecamp tasks, track your time, and invoice your clients."
-    url: "https://taskbill.io/?utm_source=basecamp"
-    image: extras/taskbillio.png
-    category: 2
   - title: "TrackingTime"
     description: "With TrackingTime for Basecamp get automatic timesheets and in-depth time analytics."
     url: "https://trackingtime.co/time-tracking-for-basecamp-3?utm_source=basecamp"
