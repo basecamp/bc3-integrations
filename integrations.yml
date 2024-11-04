@@ -73,11 +73,6 @@ integrations:
     url: "http://www.testlodge.com"
     image: extras/testlodge.png
     category: 5
-  - title: "MinterApp"
-    description: "Minterapp is a simple project time tracking and invoicing tool that helps streamline your business."
-    url: "http://www.minterapp.com/basecamp-3-time-tracking/"
-    image: extras/minterapp.png
-    category: 2
   - title: "Everhour"
     description: "Time tracking and estimating inside your to-dos. Highly flexible reporting opportunities."
     url: "https://everhour.com/integrations/basecamp?utm_source=basecamp&utm_medium=website&utm_campaign=basecamp3-integrations-page"
