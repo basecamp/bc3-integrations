@@ -135,7 +135,7 @@ integrations:
     category: 2
   - title: "Expiration Reminder"
     description: "Track expiration dates and renewals and have them create Basecamp todo’s automatically on expiration."
-    url: "https://www.expirationreminder.net/basecamp-3"
+    url: "https://www.expirationreminder.com/integrations/basecamp-3"
     image: extras/er.png
     category: 3
   - title: "Timeneye"
