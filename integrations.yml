@@ -423,3 +423,8 @@ integrations:
     url: "https://ply.io/integrations/basecamp3"
     image: extras/ply.png
     category: 1
+  - title: "AnyWebhook"
+    description: "Get webhook notifications from any app into Basecamp. Receive events from GitHub, GitLab, Stripe, Sentry, Raygun, or any other service. No code required."
+    url: "https://anywebhook.com/basecamp"
+    image: extras/anywebhook.png
+    category: 5
