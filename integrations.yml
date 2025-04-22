@@ -423,3 +423,9 @@ integrations:
     url: "https://ply.io/integrations/basecamp3"
     image: extras/ply.png
     category: 1
+  - title: "Feedbucket"
+    description: "Collect and handle website feedback and bug reports as Basecamp to-do's"
+    url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
+    image: extras/feedbucket.png
+    category: 5
+  
