@@ -432,5 +432,5 @@ integrations:
     description: "Automatically detect commitments made in Basecamp and keep your promises"
     url: "https://promisekeeper.app/basecamp"
     image: extras/promisekeeper.png
-    category: 7
+    category: 1
   
