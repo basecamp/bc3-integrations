@@ -428,4 +428,9 @@ integrations:
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
     image: extras/feedbucket.png
     category: 5
+    - title: "Promise Keeper"
+    description: "Automatically detect commitments made in Basecamp and keep your promises"
+    url: "https://promisekeeper.app/basecamp"
+    image: extras/promisekeeper.png
+    category: 7
   
