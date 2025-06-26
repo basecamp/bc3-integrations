@@ -259,7 +259,7 @@ integrations:
     image: extras/noko.png
     category: 2
   - title: "Zoho Flow"
-    description: "Stay productive by connecting your Basecamp with 650+ apps like Jira Cloud, Slack, Zendesk and more."
+    description: "Stay productive by connecting Basecamp with 650+ apps like Jira Cloud, Slack, Zendesk and more."
     url: "https://zoho.com/flow/apps/basecamp-3/integrations/?utm_source=basecamp3&utm_medium=basecamp3&utm_campaign=basecamp3_extras"
     image: extras/zoho-flow.png
     category: 1
@@ -428,4 +428,3 @@ integrations:
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
     image: extras/feedbucket.png
     category: 5
-
