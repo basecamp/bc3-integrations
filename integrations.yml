@@ -143,11 +143,6 @@ integrations:
     url: "https://www.timeneye.com/integrations/basecamp-time-tracking"
     image: extras/timeneye.png
     category: 2
-  - title: "Project Buddy"
-    description: "View and manage Basecamp to-dos without leaving your Microsoft Outlook client."
-    url: "https://store.office.com/en-us/app.aspx?assetid=WA104381105&sourcecorrid=dd231661-77aa-4b25-af8e-972d198b0bec&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false"
-    image: extras/projectbuddy.png
-    category: 1
   - title: "Slickplan"
     description: "Everything you need to plan a website. Build, collaborate and share professional sitemaps, diagrams, design mockups and content plans."
     url: "https://slickplan.com/"
