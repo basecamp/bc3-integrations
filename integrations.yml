@@ -143,11 +143,6 @@ integrations:
     url: "https://www.timeneye.com/integrations/basecamp-time-tracking"
     image: extras/timeneye.png
     category: 2
-  - title: "Project Buddy"
-    description: "View and manage Basecamp to-dos without leaving your Microsoft Outlook client."
-    url: "https://store.office.com/en-us/app.aspx?assetid=WA104381105&sourcecorrid=dd231661-77aa-4b25-af8e-972d198b0bec&searchapppos=0&ui=en-US&rs=en-US&ad=US&appredirect=false"
-    image: extras/projectbuddy.png
-    category: 1
   - title: "Slickplan"
     description: "Everything you need to plan a website. Build, collaborate and share professional sitemaps, diagrams, design mockups and content plans."
     url: "https://slickplan.com/"
@@ -424,10 +419,15 @@ integrations:
     image: extras/ply.png
     category: 1
   - title: "AnyWebhook"
-    description: "Get webhook notifications from any app into Basecamp. Receive events from GitHub, GitLab, Stripe, Sentry, Raygun, or any other service. No code required."
+    description: "Send webhooks from any app to Basecamp, auto-formatted for easy reading. Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more. No code required."
     url: "https://anywebhook.com/basecamp"
     image: extras/anywebhook.png
     category: 5
+  - title: "Grow"
+    description: "Visualize Basecamp project data, track performance, and automate reporting—all in one intuitive dashboard."
+    url: "https://www.grow.com/integrations/basecamp-3-4-project-management"
+    image: extras/grow.png
+    category: 3
   - title: "Feedbucket"
     description: "Collect and handle website feedback and bug reports as Basecamp to-do's"
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
