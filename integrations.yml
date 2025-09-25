@@ -428,3 +428,9 @@ integrations:
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
     image: extras/feedbucket.png
     category: 5
+  - title: "clockcamp"
+    description: "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+    url: "https://www.clockcamp.com/"
+    image: extras/clockcamp.png
+    category: 2
+
