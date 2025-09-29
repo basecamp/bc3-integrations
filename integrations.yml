@@ -418,6 +418,16 @@ integrations:
     url: "https://ply.io/integrations/basecamp3"
     image: extras/ply.png
     category: 1
+  - title: "AnyWebhook"
+    description: "Send webhooks from any app to Basecamp, auto-formatted for easy reading. Capture events from GitHub, GitLab, Stripe, Sentry, Raygun, and more. No code required."
+    url: "https://anywebhook.com/basecamp"
+    image: extras/anywebhook.png
+    category: 5
+  - title: "Grow"
+    description: "Visualize Basecamp project data, track performance, and automate reporting—all in one intuitive dashboard."
+    url: "https://www.grow.com/integrations/basecamp-3-4-project-management"
+    image: extras/grow.png
+    category: 3
   - title: "Feedbucket"
     description: "Collect and handle website feedback and bug reports as Basecamp to-do's"
     url: "https://www.feedbucket.app/integrations/basecamp/?utm_source=basecamp&utm_medium=marketplace"
@@ -428,3 +438,8 @@ integrations:
     url: "https://www.floweq.com"
     image: extras/floweq.png
     category: 7
+  - title: "clockcamp"
+    description: "Track Your Basecamp Card Table (Kanban) Time Using Clockify."
+    url: "https://www.clockcamp.com/"
+    image: extras/clockcamp.png
+    category: 2
