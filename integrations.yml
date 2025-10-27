@@ -443,3 +443,8 @@ integrations:
     url: "https://www.clockcamp.com/"
     image: extras/clockcamp.png
     category: 2
+  - title: "elastic.io"
+    description: "Connect Basecamp with any app using elastic.io iPaaS. Automate tasks, sync projects, messages, and to-dos seamlessly across your workflows."
+    url: "https://www.elastic.io/connectors/basecamp/"
+    image: extras/elastic-io.png
+    category: 1
