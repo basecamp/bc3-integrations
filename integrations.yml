@@ -448,3 +448,8 @@ integrations:
     url: "https://www.elastic.io/connectors/basecamp/"
     image: extras/elastic-io.png
     category: 1
+  - title: "Git Helpers"
+    description: "Automatically sync GitHub pull request updates to your Basecamp to-dos and cards."
+    url: "https://githelpers.com"
+    image: extras/githelpers.png
+    category: 5
