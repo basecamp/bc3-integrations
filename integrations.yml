@@ -450,6 +450,6 @@ integrations:
     category: 1
   - title: "Git Helpers"
     description: "Automatically sync GitHub pull request updates to your Basecamp to-dos and cards."
-    url: "https://githelpers.com"
+    url: "https://app.githelpers.com"
     image: extras/githelpers.png
     category: 5
