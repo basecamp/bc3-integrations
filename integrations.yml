@@ -453,3 +453,8 @@ integrations:
     url: "https://app.githelpers.com"
     image: extras/githelpers.png
     category: 5
+  - title: "My Hours"
+    description: "Connect My Hours to Basecamp to import projects, to-do lists and to-dos one-time import or ongoing 15-minute sync."
+    url: "https://myhours.com/"
+    image: "extras/myhours.png"
+    category: 2
