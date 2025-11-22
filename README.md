@@ -10,6 +10,7 @@ To add your integration, please open a pull request.
 
 1. Add your icon file to the [icons/](icons/) folder. Icons must be `256x256` in `.png` format.
 2. Add an entry to [integrations.yml](integrations.yml) with your integration's `name`, `description` (160 characters max), `website`, `icon`, and `category` (categories are identified at the top).
+   - Make sure the provided `website` references your service's Basecamp integration and describes (or links to) how to set it up.
 
   Example:
   ```yaml
@@ -19,7 +20,5 @@ To add your integration, please open a pull request.
     image: extras/basecamp3.png
     category: 1
   ```
-
-
 
 Thank you!
