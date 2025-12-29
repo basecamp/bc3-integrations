@@ -28,6 +28,11 @@ categories:
     slug: dev-tools
 
 integrations:
+  - title: "ReDD Todo"
+    description: "Keep your to-dos from Basecamp in sight with floating task reminders, simple task lists, and easy time tracking. ReDD Todo is open-source and collects zero user data."
+    url: "https://reddfocus.org/reddtodo"
+    image: extras/redd-todo.png
+    category: 1
   - title: "Deskpro"
     description: "Link your Basecamp cards to your Deskpro tickets to streamline communication with users by making them easy to view and update."
     url: "https://www.deskpro.com/apps/basecamp"
