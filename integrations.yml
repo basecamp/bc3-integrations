@@ -463,3 +463,8 @@ integrations:
     url: "https://myhours.com/"
     image: "extras/myhours.png"
     category: 2
+  - title: "Rinkta"
+    description: "AI that plugs into your Basecamp workflow, captures work automatically, and bills your clients in one click."
+    url: "https://rinkta.com"
+    image: "extras/rinkta.png"
+    category: 2
