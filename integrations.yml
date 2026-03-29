@@ -468,3 +468,8 @@ integrations:
     url: "https://rinkta.com"
     image: "extras/rinkta.png"
     category: 2
+  - title: "Context Link"
+    description: "Connect your Basecamp projects to give ChatGPT and Claude perfect context on your business."
+    url: "https://context-link.ai/docs/connect-basecamp"
+    image: extras/context-link.png
+    category: 6
