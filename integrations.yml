@@ -473,3 +473,8 @@ integrations:
     url: "https://context-link.ai/docs/connect-basecamp"
     image: extras/context-link.png
     category: 6
+  - title: "Assistant"
+    description: "Add Kanban Board View, Custom fields, Automations, Voice Messages and unread notification highlights to Basecamp. Organize work without leaving Basecamp."
+    url: "https://www.getassistant.io"
+    image: extras/assistant-for-basecamp-256.png
+    category: 1
