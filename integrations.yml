@@ -478,3 +478,8 @@ integrations:
     url: "https://www.getassistant.io/help/getting-started/"
     image: extras/assistant-for-basecamp.png
     category: 1
+  - title: "Feedhammer"
+    description: "Your projects live in Basecamp. Your clients live in Google Calendar. Feedhammer keeps both in sync. No more 'hey, what's happening this week?' emails."
+    url: "https://feedhammer.com"
+    image: extras/feedhammer.png
+    category: 3
