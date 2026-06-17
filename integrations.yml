@@ -473,6 +473,11 @@ integrations:
     url: "https://context-link.ai/docs/connect-basecamp"
     image: extras/context-link.png
     category: 6
+  - title: "Assistant"
+    description: "Add Kanban Board View, Custom fields, Automations, Voice Messages and unread notification highlights to Basecamp. Organize work without leaving Basecamp."
+    url: "https://www.getassistant.io/help/getting-started/"
+    image: extras/assistant-for-basecamp.png
+    category: 1
   - title: "Feedhammer"
     description: "Your projects live in Basecamp. Your clients live in Google Calendar. Feedhammer keeps both in sync. No more 'hey, what's happening this week?' emails."
     url: "https://feedhammer.com"
