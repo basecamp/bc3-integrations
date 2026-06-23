@@ -1,8 +1,8 @@
-# Basecamp 3 Integrations
+# Basecamp Integrations
 
-Does your service integrate with the [Basecamp 3 API](https://github.com/basecamp/bc3-api)? Would you like to have it listed on [basecamp.com](https://basecamp.com)? Then you're in the right place.
+Does your service integrate with the [Basecamp API](https://github.com/basecamp/bc-api)? Would you like to have it listed on [basecamp.com](https://basecamp.com)? Then you're in the right place.
 
-Your Basecamp 3 integration will be listed at [https://basecamp.com/extras](https://basecamp.com/extras).
+Your Basecamp integration will be listed at [https://basecamp.com/extras](https://basecamp.com/extras).
 
 ## Add Your Integration
 
@@ -14,10 +14,10 @@ To add your integration, please open a pull request.
 
   Example:
   ```yaml
-  - title: "Basecamp 3 App"
-    description: "Basecamp 3 for Mac and Windows"
-    url: "https://basecamp.com/3/via"
-    image: extras/basecamp3.png
+  - title: "Basecamp App"
+    description: "Basecamp for Mac and Windows"
+    url: "https://basecamp.com/via"
+    image: extras/basecamp.png
     category: 1
   ```
 
