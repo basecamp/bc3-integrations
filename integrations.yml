@@ -28,10 +28,10 @@ categories:
     slug: dev-tools
 
 integrations:
-  - title: "ReDD Do"
-    description: "Keep your to-dos from Basecamp in sight with floating task reminders, simple task lists, and easy time tracking. ReDD Do is open-source and collects zero user data."
-    url: "https://reddfocus.org/do"
-    image: extras/redd-todo.png
+  - title: "Time Doctor"
+    description: "Track time and connect Time Doctor workflows with Basecamp projects."
+    url: "https://www.timedoctor.com/basecamp/"
+    image: icons/timedoctor.png
     category: 1
   - title: "Deskpro"
     description: "Link your Basecamp cards to your Deskpro tickets to streamline communication with users by making them easy to view and update."
