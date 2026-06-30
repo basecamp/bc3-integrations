@@ -28,6 +28,11 @@ categories:
     slug: dev-tools
 
 integrations:
+  - title: "Cal ID"
+    description: "Easily schedule meetings on your Basecamp Project Calendar using Cal ID."
+    url: "https://cal.id/apps/basecamp3"
+    image: extras/cal-id.png
+    category: 2
   - title: "ReDD Do"
     description: "Keep your to-dos from Basecamp in sight with floating task reminders, simple task lists, and easy time tracking. ReDD Do is open-source and collects zero user data."
     url: "https://reddfocus.org/do"
