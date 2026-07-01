@@ -28,6 +28,11 @@ categories:
     slug: dev-tools
 
 integrations:
+  - title: "Javi"
+    description: "Production management for video and photo teams. Sync Javi events to Basecamp to-do lists to keep gear, crew, and schedules aligned."
+    url: "https://www.getjavi.com/integrations/basecamp"
+    image: extras/javi.png
+    category: 6
   - title: "ReDD Do"
     description: "Keep your to-dos from Basecamp in sight with floating task reminders, simple task lists, and easy time tracking. ReDD Do is open-source and collects zero user data."
     url: "https://reddfocus.org/do"
